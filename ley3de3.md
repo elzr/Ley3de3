@@ -531,72 +531,64 @@ Finalmente, la propuesta de Iniciativa Ciudadana establece un plazo no mayor a u
 
 **Por los motivos anteriores y con fundamento en los Artículos 8, 73 fracción CCIX-Q de la Constitución Política de los Estados Unidos Mexicanos y 130 a 133 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, es que se propone la presente Iniciativa Ciudadana de:**
 
-# Ley General de Responsabilidades Administrativas
+Ley General de Responsabilidades Administrativas
+================================================
 
 LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS 
 ÍNDICE
 
-I. TÍTULO PRIMERO. SIN NOMBRE (1-9)
-	A. Capítulo Único. Disposiciones generales (1-9)
+* TÍTULO PRIMERO. SIN NOMBRE (1-9)
+	* Capítulo Único. Disposiciones generales (1-9)
+* TÍTULO SEGUNDO. SIN NOMBRE (10-11)
+	* Capítulo Único. De las obligaciones del servidor público (10-11)
+* TÍTULO TERCERO. DE LAS FALTAS ADMINISTRATIVAS GRAVES CONSTITUTIVAS DE CORRUPCIÓN (12-28)
+	* Capítulo I. Del Soborno (13-15)
+	* Capítulo II. Del peculado y el desvío (16-18)
+	* Capítulo III. Del tráfico de influencias (19-20)
+	* Capítulo IV. Del abuso de funciones (21)
+	* Capítulo V. Del enriquecimiento oculto (22)
+	* Capítulo VI. De la obstrucción de la justicia administrativa (23)
+	* Capítulo VII. De la colusión (24)
+	* CapítuloVIII.De la utilización de información o documentación falsa o confidencial (25-26)
+	* Capítulo IX. Del nepotismo (27)
+	* Capítulo X. De la conspiración para realizar un acto de corrupción
+* TÍTULO CUARTO. SIN NOMBRE (29-30)
+	* Capítulo Único. De la integridad de las personas morales (29-30) 
+* TÍTULO QUINTO. DEL PROCEDIMIENTO (31-72)
+	* Capítulo I. Disposiciones generales (31-32)
+	* Capítulo II. De la investigación (33-58)
+		* Sección I. Del inicio de la investigación (39-41)
+		* Sección II. Del desahogo de la investigación (42-55)
+		* Sección III. De la conclusión de la investigación (56-58)
+	* Capítulo III. Del procedimiento ante el tribunal (59-68)
+		* Sección I. De la recepción del expediente y del emplazamiento (59-61)
+		* Sección II. Del desahogo del procedimiento (62-64)
+		* Sección III. De la resolución definitiva (65-68)
+	* Capítulo IV. Disposiciones comunes a la investigación y al procedimiento ante el tribunal de justicia administrativa (69-72)
+		* Sección I. De las pruebas y su valoración (69-71)
+		* Sección II. De las medidas cautelares (71)
+		* Sección III. De las medidas de apremio (72)
+* TÍTULO SEXTO. DE LAS SANCIONES (73-86)
+	* Capítulo I. Disposiciones generales (73-75)
+	* Capítulo II. De los criterios para la determinación de sanciones (76-82)
+	* Capítulo III. Del Registro Nacional de Servidores Públicos Sancionados (83-86)
+* TÍTULO SÉPTIMO. DE LAS MEDIDAS DE EJECUCIÓN (87-88)
+* TÍTULO OCTAVO. DE LOS RECURSOS (89-91)
+* TÍTULO NOVENO. DE LOS INSTRUMENTOS DE RENDICIÓN DE CUENTAS (92-94)
+* TRANSITORIOS
 
-II. TÍTULO SEGUNDO. SIN NOMBRE (10-11)
-	A. Capítulo Único. De las obligaciones del servidor público (10-11)
+LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
+================================================
 
-III. TÍTULO TERCERO. DE LAS FALTAS ADMINISTRATIVAS GRAVES CONSTITUTIVAS DE CORRUPCIÓN (12-28)
-	A. Capítulo I. Del Soborno (13-15)
-	B. Capítulo II. Del peculado y el desvío (16-18)
-	C. Capítulo III. Del tráfico de influencias (19-20)
-	D. Capítulo IV. Del abuso de funciones (21)
-	E. Capítulo V. Del enriquecimiento oculto (22)
-	F. Capítulo VI. De la obstrucción de la justicia administrativa (23)
-	G. Capítulo VII. De la colusión (24)
-	H. CapítuloVIII.De la utilización de información o documentación falsa o confidencial (25-26)
-	I. Capítulo IX. Del nepotismo (27)
-	J. Capítulo X. De la conspiración para realizar un acto de corrupción
-
-IV. TÍTULO CUARTO. SIN NOMBRE (29-30)
-	A. Capítulo Único. De la integridad de las personas morales (29-30) 
-
-V. TÍTULO QUINTO. DEL PROCEDIMIENTO (31-72)
-	A. Capítulo I. Disposiciones generales (31-32)
-	B. Capítulo II. De la investigación (33-58)
-		1. Sección I. Del inicio de la investigación (39-41)
-		2. Sección II. Del desahogo de la investigación (42-55)
-		3. Sección III. De la conclusión de la investigación (56-58)
-	C. Capítulo III. Del procedimiento ante el tribunal (59-68)
-		1. Sección I. De la recepción del expediente y del emplazamiento (59-61)
-		2. Sección II. Del desahogo del procedimiento (62-64)
-		3. Sección III. De la resolución definitiva (65-68)
-	D. Capítulo IV. Disposiciones comunes a la investigación y al procedimiento ante el tribunal de justicia administrativa (69-72)
-		1. Sección I. De las pruebas y su valoración (69-71)
-		2. Sección II. De las medidas cautelares (71)
-		3. Sección III. De las medidas de apremio (72)
-
-VI. TÍTULO SEXTO. DE LAS SANCIONES (73-86)
-	A. Capítulo I. Disposiciones generales (73-75)
-	B. Capítulo II. De los criterios para la determinación de sanciones (76-82)
-	C. Capítulo III. Del Registro Nacional de Servidores Públicos Sancionados (83-86)
-
-VII. TÍTULO SÉPTIMO. DE LAS MEDIDAS DE EJECUCIÓN (87-88)
-
-VIII. TÍTULO OCTAVO. DE LOS RECURSOS (89-91)
-
-IX. TÍTULO NOVENO. DE LOS INSTRUMENTOS DE RENDICIÓN DE CUENTAS (92-94)
-
-X. TRANSITORIOS
-
-# LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
-
-## TÍTULO PRIMERO
+TÍTULO PRIMERO
+-----------------
 
 ### CAPÍTULO ÚNICO 
 ### Disposiciones generales
 
-#### Artículo 1
-Esta Ley General es de orden público y tiene por objeto distribuir competencias entre los órdenes de gobierno para establecer las responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves, así como los procedimientos para su aplicación.
+`Artículo 1.` Esta Ley General es de orden público y tiene por objeto distribuir competencias entre los órdenes de gobierno para establecer las responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves, así como los procedimientos para su aplicación.
 
-#### Artículo 2
-Para los efectos de esta Ley se entenderá por:
+`Artículo 2.` Para los efectos de esta Ley se entenderá por:
 * Constitución: Constitución Política de los Estados Unidos Mexicanos.
 * Ley: Ley General de Responsabilidades Administrativas.
 * SNA: Sistema Nacional Anticorrupción.
@@ -605,15 +597,13 @@ Para los efectos de esta Ley se entenderá por:
 * El Tribunal: Tribunal de Justicia Administrativa.
 * RNSPS: Registro Nacional de Servidores Públicos Sancionados.
 
-#### Artículo 3
-Todo servidor público está obligado a respetar los principios constitucionales de legalidad, honradez, imparcialidad, lealtad, eficiencia, eficacia, profesionalismo y objetividad en el desempeño de sus empleo, cargo o comisión.
+`Artículo 3.` Todo servidor público está obligado a respetar los principios constitucionales de legalidad, honradez, imparcialidad, lealtad, eficiencia, eficacia, profesionalismo y objetividad en el desempeño de sus empleo, cargo o comisión.
 
 Asimismo, todos los sujetos obligados por esta ley deben mantener los más altos estándares de ética y responsabilidad a fin de resguardar la función pública que le es inherente al Estado.
 
 En los Estados Unidos Mexicanos, todas las personas tienen la obligación de evitar y denunciar la comisión de cualquier falta administrativa a la que se refiere esta ley, aportando los elementos de prueba a su disposición.
 
-#### Artículo 4
-Para la efectiva aplicación de los principios señalados en el artículo 3, se seguirán las siguientes directrices:
+`Artículo 4.` Para la efectiva aplicación de los principios señalados en el artículo 3, se seguirán las siguientes directrices:
 * Los servidores públicos regirán su actuación conforme a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyan a su empleo, cargo, o comisión; en consecuencia, deberán conocer y cumplir con las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
 * Los servidores públicos, en el ejercicio de sus atribuciones, deberán corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general.
 * Los servidores públicos deberán cumplir con todas las obligaciones derivadas de su carácter de ciudadanos mexicanos en los términos del artículo 36 de la Constitución.
@@ -626,8 +616,7 @@ Para la efectiva aplicación de los principios señalados en el artículo 3, 
 * Los servidores públicos no podrán realizar cualquier trato o promesa privada que comprometa al Estado mexicano.
 * En el manejo de su patrimonio, los servidores públicos deberán conducirse conforme a las prácticas comerciales y financieras que promueve el Estado mexicano y evitarán comportamientos que las eludan.
 
-#### Artículo 5
-Son sujetos de responsabilidad en los términos de esta ley:
+`Artículo 5.` Son sujetos de responsabilidad en los términos de esta ley:
 * Los servidores públicos federales señalados en el primer párrafo del artículo 108 de la Constitución.
 * Los servidores públicos que forman parte de los órganos que integra el SNA.
 * Los servidores públicos adscritos a los órganos a los que la Constitución otorga autonomía.
@@ -640,38 +629,34 @@ Son sujetos de responsabilidad en los términos de esta ley:
 
 Las disposiciones de esta Ley se aplicarán a los servidores públicos señalados en el presente artículo aun cuando se encuentren en periodo de licencia o permiso según corresponda a la naturaleza de su empleo, cargo, o comisión.
 
-#### Artículo 6
-En el ámbito de su competencia, son órganos facultados para interpretar y aplicar esta Ley General:
+`Artículo 6.` En el ámbito de su competencia, son órganos facultados para interpretar y aplicar esta Ley General:
 * El Poder Judicial de la Federación y el Poder Judicial de la Ciudad de México, el Congreso de la Unión, la Asamblea Legislativa de la Ciudad de México, la Administración Pública Federal y la de la Ciudad de México, así como los órganos a los que la Constitución dote de autonomía.
 * Los órganos que integran el SNA.
 * En los términos del último párrafo del artículo 108 de la Constitución, los gobiernos locales y municipales, las administraciones públicas locales, las legislaturas locales, los Poderes Judiciales locales, los consejos de la judicatura locales, los ayuntamientos, así como los órganos a los que las constituciones.
 * Las empresas productivas del Estado.
 * Cualquier otra forma de organización pública.
 
-### Artículo 7
-De acuerdo con los principios y directrices establecidos en esta ley, las leyes de responsabilidades administrativas de los servidores públicos, tanto la federal como las locales, deberán establecer los procedimientos de responsabilidades correspondientes para vigilar el debido cumplimiento de las obligaciones establecidas en este ordenamiento y sancionar efectivamente su incumplimiento.
+`Artículo 7.` De acuerdo con los principios y directrices establecidos en esta ley, las leyes de responsabilidades administrativas de los servidores públicos, tanto la federal como las locales, deberán establecer los procedimientos de responsabilidades correspondientes para vigilar el debido cumplimiento de las obligaciones establecidas en este ordenamiento y sancionar efectivamente su incumplimiento.
 
 Las faltas administrativas graves serán investigadas y sustanciadas por la Auditoría Superior de la Federación y los órganos que llevan a cabo la función de control interno, así como por sus homólogos en las entidades federativas, según corresponda, y serán resueltas por el tribunal de justicia administrativa que resulte competente.
 
 Las demás faltas y sanciones administrativas serán conocidas y resueltas por los órganos que llevan a cabo la función de control interno según lo que establezcan la ley federal y las de las entidades federativas, atendiendo a los sujetos, directrices, principios, obligaciones, procedimientos y sanciones que establece esta ley.
 
-### Artículo 8
-En el caso del Poder Judicial de la Federación, la investigación y substanciación serán competencia del Consejo de la Judicatura Federal, sin perjuicio de las facultades propias de la Auditoría Superior de la Federación y sus homólogos a nivel local.
+`Artículo 8.` En el caso del Poder Judicial de la Federación, la investigación y substanciación serán competencia del Consejo de la Judicatura Federal, sin perjuicio de las facultades propias de la Auditoría Superior de la Federación y sus homólogos a nivel local.
 
 En las demás etapas del procedimiento el Consejo de la Judicatura Federal respetará los principios y las disposiciones establecidos en esta Ley General.
 
-#### Artículo 9
-Cuando los actos u omisiones de los servidores públicos, materia de las quejas o denuncias, queden comprendidos en más de uno de los casos sujetos a sanción y previstos en el artículo 109 constitucional, distintos a los procedimientos de responsabilidad administrativa, los procedimientos respectivos se desarrollarán en forma autónoma según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades a que alude el artículo 6 turnar las quejas o denuncias a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+`Artículo 9.` Cuando los actos u omisiones de los servidores públicos, materia de las quejas o denuncias, queden comprendidos en más de uno de los casos sujetos a sanción y previstos en el artículo 109 constitucional, distintos a los procedimientos de responsabilidad administrativa, los procedimientos respectivos se desarrollarán en forma autónoma según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades a que alude el artículo 6 turnar las quejas o denuncias a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
 Tratándose de responsabilidades administrativas, cuando en la etapa de investigación se detecte que existen elementos que pueden ser constitutivos de una falta administrativa grave, las conductas no graves relacionadas se integrarán en un mismo expediente del que conocerá el tribunal de justicia administrativa que resulte competente.
 
-## TÍTULO SEGUNDO
+TÍTULO SEGUNDO
+--------------
 
 ### CAPÍTULO ÚNICO
 ### De las obligaciones del servidor público
 
-#### Artículo 10
-Todo servidor público tendrá las siguientes obligaciones:
+`Artículo 10.` Todo servidor público tendrá las siguientes obligaciones:
 * Cumplir el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio.
 * Utilizar los recursos públicos de que disponga exclusivamente para los fines a que están afectos y sin comprometerlos para beneficio privado.
 * Rendir cuentas sobre el ejercicio de las funciones que tenga conferidas y proporcionar la documentación e información que le sea requerida en los términos que establezcan las disposiciones legales correspondientes.
@@ -691,8 +676,7 @@ Todo servidor público tendrá las siguientes obligaciones:
 * Atender con diligencia las instrucciones, requerimientos o resoluciones que reciba de las autoridades encargadas de investigar o sancionar conductas administrativas.
 * Abstenerse de desempeñar un empleo, cargo o comisión público o privado respecto del cual exista incompatibilidad o inelegibilidad.
 
-#### Artículo 11
-El servidor público que deje de desempeñar su empleo, cargo o comisión deberá observar, hasta un año después de haber concluido sus funciones, las obligaciones establecidas en las fracciones VIII, IX, XII, XIII, XV, XVI, XVII y XVIII del artículo 10 de esta Ley. Asimismo:
+`Artículo 11.` El servidor público que deje de desempeñar su empleo, cargo o comisión deberá observar, hasta un año después de haber concluido sus funciones, las obligaciones establecidas en las fracciones VIII, IX, XII, XIII, XV, XVI, XVII y XVIII del artículo 10 de esta Ley. Asimismo:
 * En ningún caso aprovechará su influencia u obtendrá alguna ventaja derivada de la función que desempeñaba.
 * No usará, en provecho propio o de terceros, la información o documentación a la que haya tenido acceso en su empleo, cargo o comisión y que no sea del dominio público.
 
@@ -700,38 +684,33 @@ Serán sancionados por falta administrativa grave con la separación del cargo
 
 Para la investigación y substanciación de las conductas a las que se refiere este precepto, se seguirán los procedimientos a que se refiere esta ley.
 
-## TÍTULO TERCERO
-## De las faltas administrativas graves constitutivas de corrupción
+TÍTULO TERCERO
+-----------------
+De las faltas administrativas graves constitutivas de corrupción
+-------------------------------------------------------------------
 
-#### Artículo 12
-Serán considerados faltas administrativas graves constitutivas de corrupción: el soborno; la malversación, peculado y desvío de fondos públicos; el tráfico de influencias; el abuso de funciones; el enriquecimiento oculto; la obstrucción de la justicia; la colusión; la utilización ilegal de información falsa o confidencial; el nepotismo, y la conspiración para cometer un acto corrupto.
+`Artículo 12.` Serán considerados faltas administrativas graves constitutivas de corrupción: el soborno; la malversación, peculado y desvío de fondos públicos; el tráfico de influencias; el abuso de funciones; el enriquecimiento oculto; la obstrucción de la justicia; la colusión; la utilización ilegal de información falsa o confidencial; el nepotismo, y la conspiración para cometer un acto corrupto.
 
 Las legislaturas, tanto federales como locales, deberán considerar en el establecimiento de faltas administrativas graves constitutivas de corrupción las conductas señaladas en el párrafo anterior y establecerán las bases, órganos, procedimientos y sanciones que resulten necesarios para la efectiva disuasión y sanción de tales conductas.
 
 ### CAPÍTULO I Del soborno
 
-#### Artículo 13
-Incurre en soborno el servidor público que exige, solicita, acepta, recibe o pretende recibir un beneficio adicional a sus contraprestaciones legales a cambio de hacer, o dejar de hacer, aquello que son sus funciones, o que quien otorga el beneficio extra legal, cree que son sus funciones.
+`Artículo 13.` Incurre en soborno el servidor público que exige, solicita, acepta, recibe o pretende recibir un beneficio adicional a sus contraprestaciones legales a cambio de hacer, o dejar de hacer, aquello que son sus funciones, o que quien otorga el beneficio extra legal, cree que son sus funciones.
 
 Incurre también en soborno quien ofrece, entrega o pone a disposición de un servidor público un beneficio adicional a las contraprestaciones legales de éste para hacer o dejar de hacer algo que forma parte de sus funciones. También será soborno cuando se pueda probar que quien otorga el beneficio indebido es engañado respecto de las funciones del servidor público o de las características del trámite, proceso o servicio.
 
-#### Artículo 14
-Incurre en soborno el candidato, miembro del equipo de campaña o dirigente partidario que exige, solicita, acepta, recibe o pretende recibir donativos en numerario o en especie, para él o para su campaña, a cambio de otorgar una ventaja indebida en el futuro a quien entrega u ofrece el soborno, o para la empresa, institución o grupo a la que este último pertenece.
+`Artículo 14.` Incurre en soborno el candidato, miembro del equipo de campaña o dirigente partidario que exige, solicita, acepta, recibe o pretende recibir donativos en numerario o en especie, para él o para su campaña, a cambio de otorgar una ventaja indebida en el futuro a quien entrega u ofrece el soborno, o para la empresa, institución o grupo a la que este último pertenece.
 
-#### Artículo 15
-Incurrirán también en soborno los sujetos que en alguna transacción comercial internacional, por sí o a través de un tercero, prometan, ofrezcan o entreguen dinero o cualquier otra dádiva indebida a un servidor público extranjero o a un tercero, a cambio de que dicho servidor público realice o se abstenga de realizar un acto relacionado con sus funciones o con las de otro servidor público extranjero, con la finalidad de obtener o mantener un beneficio o ventaja, con independencia de la aceptación o del resultado obtenido.
+`Artículo 15.` Incurrirán también en soborno los sujetos que en alguna transacción comercial internacional, por sí o a través de un tercero, prometan, ofrezcan o entreguen dinero o cualquier otra dádiva indebida a un servidor público extranjero o a un tercero, a cambio de que dicho servidor público realice o se abstenga de realizar un acto relacionado con sus funciones o con las de otro servidor público extranjero, con la finalidad de obtener o mantener un beneficio o ventaja, con independencia de la aceptación o del resultado obtenido.
 
 ### CAPÍTULO II
 ### Del peculado y el desvío
 
-#### Artículo 16
-Incurre en peculado quien hurta recursos del erario, confiados a su administración, utilización o resguardo.
+`Artículo 16.` Incurre en peculado quien hurta recursos del erario, confiados a su administración, utilización o resguardo.
 
-#### Artículo 17
-Incurre en desvío quien destina recursos públicos a un uso diferente al que le es asignado por las normas a fin de generar un beneficio privado.
+`Artículo 17.` Incurre en desvío quien destina recursos públicos a un uso diferente al que le es asignado por las normas a fin de generar un beneficio privado.
 
-#### Artículo 18
-También se considerarán como faltas graves:
+`Artículo 18.` También se considerarán como faltas graves:
 * El ocultamiento de recursos públicos con el fin de obstaculizar su destino legal.
 * La manipulación o alteración del bien o recurso para modificar el destino que legalmente le correspondía.
 * La retención, inutilización o destrucción del bien, para afectar a los beneficiarios o destinatarios legales.
@@ -739,23 +718,19 @@ También se considerarán como faltas graves:
 ### CAPÍTULO III
 ### Del tráfico de influencias
 
-#### Artículo 19
-Incurre en tráfico de influencias quien solicita o acepta, en forma directa o indirecta, un beneficio indebido que redunde en su provecho, con el fin de abusar de su influencia real o supuesta, para obtener de una autoridad del Estado un beneficio indebido para un tercero.
+`Artículo 19.` Incurre en tráfico de influencias quien solicita o acepta, en forma directa o indirecta, un beneficio indebido que redunde en su provecho, con el fin de abusar de su influencia real o supuesta, para obtener de una autoridad del Estado un beneficio indebido para un tercero.
 
-#### Artículo 20
-Incurre en tráfico de influencias quien promete, ofrece o concede a un servidor público, en forma directa o indirecta, un beneficio indebido, con el fin de que ese servidor público abuse de su influencia real o supuesta, para obtener de una autoridad del Estado un beneficio indebido que redunde en provecho del instigador original del acto o de cualquier otra persona.
+`Artículo 20.` Incurre en tráfico de influencias quien promete, ofrece o concede a un servidor público, en forma directa o indirecta, un beneficio indebido, con el fin de que ese servidor público abuse de su influencia real o supuesta, para obtener de una autoridad del Estado un beneficio indebido que redunde en provecho del instigador original del acto o de cualquier otra persona.
 
 ### CAPÍTULO IV
 ### Del abuso de funciones
 
-#### Artículo 21
-Incurre en abuso de funciones quien realiza u omite un acto en exceso o defecto de sus funciones legales, con el fin de obtener un beneficio indebido para sí mismo o para otra persona o de afectar a otra persona, grupo o institución.
+`Artículo 21.` Incurre en abuso de funciones quien realiza u omite un acto en exceso o defecto de sus funciones legales, con el fin de obtener un beneficio indebido para sí mismo o para otra persona o de afectar a otra persona, grupo o institución.
 
 ### CAPÍTULO V
 ### Del enriquecimiento oculto
 
-#### Artículo 22
-Comete enriquecimiento oculto el servidor que en su declaración patrimonial o en su declaración de intereses, omite señalar:
+`Artículo 22.` Comete enriquecimiento oculto el servidor que en su declaración patrimonial o en su declaración de intereses, omite señalar:
 * Bienes o recursos de los que es poseedor o propietario legal.
 * Bienes o recursos que utiliza para beneficio propio.
 * Frutos derivados de bienes o recursos propios o de terceros.
@@ -765,8 +740,7 @@ También comete enriquecimiento oculto el servidor público que posee un patri
 ### CAPÍTULO VI
 ### De la obstrucción de la justicia administrativa
 
-#### Artículo 23
-Incurre en obstrucción de justicia quien:
+`Artículo 23.` Incurre en obstrucción de justicia quien:
 * Hace uso de fuerza física, amenazas o intimidación; o de una promesa, un ofrecimiento o una concesión de un beneficio indebido, para inducir a una persona a prestar falso testimonio o a obstaculizar la prestación de testimonio o la aportación de pruebas en procesos en relación con la comisión de actos de corrupción.
 * Hace uso de fuerza física, amenazas o intimidación para obstaculizar el cumplimiento de las funciones oficiales de un funcionario de la justicia o de los servicios encargados de hacer cumplir la ley, en relación con la comisión de actos de corrupción.
 * Conoce directamente de un posible acto de corrupción y omite denunciarlo a las autoridades correspondientes.
@@ -778,42 +752,37 @@ Incurre en obstrucción de justicia quien:
 ### CAPÍTULO VII 
 ### De la colusión
 
-#### Artículo 24
-Incurre en colusión quien acuerde o celebre contratos, convenios, arreglos o combinaciones entre competidores, cuyo objeto o efecto sea afectar la utilización eficiente y eficaz de los recursos públicos del Estado.
+`Artículo 24.` Incurre en colusión quien acuerde o celebre contratos, convenios, arreglos o combinaciones entre competidores, cuyo objeto o efecto sea afectar la utilización eficiente y eficaz de los recursos públicos del Estado.
 
 En la investigación de un caso de colusión, los órganos del Sistema Nacional Anticorrupción deberán colaborar con las autoridades responsables en materia de competencia económica.
 
 ### CAPÍTULO VIII
 ### De la utilización de información o documentación falsa o confidencial
 
-#### Artículo 25
-Incurre en utilización de información o documentación falsa quien la presenta en un trámite o procedimiento, a sabiendas de su inexactitud o falta de veracidad y con el propósito de lograr un beneficio o ventaja.
+`Artículo 25.` Incurre en utilización de información o documentación falsa quien la presenta en un trámite o procedimiento, a sabiendas de su inexactitud o falta de veracidad y con el propósito de lograr un beneficio o ventaja.
 
-#### Artículo 26
-Incurre en utilización de información o documentación confidencial quien la utiliza para beneficio privado.
+`Artículo 26.` Incurre en utilización de información o documentación confidencial quien la utiliza para beneficio privado.
 
 ### CAPÍTULO IX 
 ### Del nepotismo
 
-#### Artículo 27
-Incurre en nepotismo el servidor público que ofrece, otorga o promete ventajas indebidas a su cónyuge, concubino o concubina, asociado en convivencia y figuras análogas, así como a miembros de su familia hasta el cuarto grado, al utilizar sus facultades o el poder fáctico que el empleo, cargo o comisión le otorgan.
+`Artículo 27.` Incurre en nepotismo el servidor público que ofrece, otorga o promete ventajas indebidas a su cónyuge, concubino o concubina, asociado en convivencia y figuras análogas, así como a miembros de su familia hasta el cuarto grado, al utilizar sus facultades o el poder fáctico que el empleo, cargo o comisión le otorgan.
 
 ### CAPÍTULO X
 
 De la conspiración para realizar un acto de corrupción
 
-#### Artículo 28
-Incurre en conspiración para realizar un acto de corrupción quienes utilizan su cargo público, su poder real o supuesto, los recursos públicos o sus funciones, con el fin de obtener un beneficio indebido para sí o para terceros, con independencia de que éste se obtenga.
+`Artículo 28.` Incurre en conspiración para realizar un acto de corrupción quienes utilizan su cargo público, su poder real o supuesto, los recursos públicos o sus funciones, con el fin de obtener un beneficio indebido para sí o para terceros, con independencia de que éste se obtenga.
 
-## TÍTULO CUARTO
+TÍTULO CUARTO
+-------------
+
 ### CAPÍTULO ÚNICO
 ### De la integridad de las personas morales
 
-#### Artículo 29
-Las personas morales serán sancionadas en los términos de esta ley cuando los actos vinculados con faltas administrativas graves constitutivas de corrupción sean realizados por personas físicas que actúen a nombre o representación de la persona moral y pretendan obtener mediante tales conductas beneficios para dicha persona moral.
+`Artículo 29.` Las personas morales serán sancionadas en los términos de esta ley cuando los actos vinculados con faltas administrativas graves constitutivas de corrupción sean realizados por personas físicas que actúen a nombre o representación de la persona moral y pretendan obtener mediante tales conductas beneficios para dicha persona moral.
 
-#### Artículo 30
-En la determinación de la responsabilidad de las personas morales se valorará si cuentan con una política de integridad. Para los efectos de esta Ley, se considerará una política de integridad aquella que cuenta con los fundamentos esenciales de los siguientes elementos:
+`Artículo 30.` En la determinación de la responsabilidad de las personas morales se valorará si cuentan con una política de integridad. Para los efectos de esta Ley, se considerará una política de integridad aquella que cuenta con los fundamentos esenciales de los siguientes elementos:
 * Un manual de organización y procedimientos que sea claro y completo, en el que se delimiten las funciones y responsabilidades de cada una de sus áreas, y que especifique claramente las distintas cadenas de mando y de liderazgo en toda la estructura.
 * Un código de conducta debidamente publicado y socializado entre todos los miembros de la organización, que cuente con sistemas y mecanismos de aplicación real.
 * Sistemas adecuados y eficaces de control, vigilancia y auditoría, que examinen de manera constante y periódica el cumplimiento de los estándares de integridad en toda la organización.
@@ -822,24 +791,25 @@ En la determinación de la responsabilidad de las personas morales se valorara�
 * Políticas de recursos humanos tendientes a evitar la incorporación de personas que puedan generar un riesgo a la integridad de la corporación.
 * Mecanismos que aseguren en todo momento la transparencia y publicidad de sus intereses.
 
-## TÍTULO QUINTO DEL PROCEDIMIENTO
-CAPÍTULO I
-Disposiciones generales
+TÍTULO QUINTO 
+-------------
+DEL PROCEDIMIENTO
+-----------------
 
-#### Artículo 31
-Determinar la responsabilidad de los servidores públicos que incurran en la comisión de faltas administrativas graves previstas en esta Ley es de interés público.
+### CAPÍTULO I
+### Disposiciones generales
+
+`Artículo 31.` Determinar la responsabilidad de los servidores públicos que incurran en la comisión de faltas administrativas graves previstas en esta Ley es de interés público.
 Las autoridades encargadas de desarrollar los procedimientos y etapas los que se refiere este Título se regirán por los principios de debido proceso, objetividad, oportunidad, exhaustividad, integralidad, profesionalismo, eficacia y respeto a los derechos humanos reconocidos por la Constitución y los Tratados Internacionales de los que México sea parte.
 
-#### Artículo 32
-Para la determinación de las responsabilidades administrativas a que se refiere esta ley, se seguirán los siguientes procedimientos:
+`Artículo 32.` Para la determinación de las responsabilidades administrativas a que se refiere esta ley, se seguirán los siguientes procedimientos:
 * Investigación.
 * Juicio ante el tribunal de justicia administrativa que resulte competente.
 
 ### CAPÍTULO II
 ### De la investigación
 
-#### Artículo 33
-El procedimiento para la determinación de las responsabilidades a las que se refiere esta ley iniciará de oficio o por denuncia, caso en el que será suficiente cualquier medio de información, denuncia verbal o señalamiento que exponga la posible comisión de una falta administrativa grave.
+`Artículo 33.` El procedimiento para la determinación de las responsabilidades a las que se refiere esta ley iniciará de oficio o por denuncia, caso en el que será suficiente cualquier medio de información, denuncia verbal o señalamiento que exponga la posible comisión de una falta administrativa grave.
 
 Los denunciantes y terceros coadyuvantes tendrán derecho a ser informados del cauce y de los resultados del procedimiento para la determinación de las responsabilidades en los términos de esta Ley.
 
@@ -853,8 +823,7 @@ Los órganos encargados de la investigación deberán establecer los criterio
 
 En estos Convenios se deberá establecer claramente que la participación sólo procede hasta que el daño al erario está determinado y resarcido.
 
-#### Artículo 34
-Las autoridades competentes podrán tomar conocimiento de las presuntas infracciones que cometan las personas sujetas a esta Ley, entre otros, a través de los siguientes medios:
+`Artículo 34.` Las autoridades competentes podrán tomar conocimiento de las presuntas infracciones que cometan las personas sujetas a esta Ley, entre otros, a través de los siguientes medios:
 * Denuncia remitida por medio del sistema electrónico de captación de denuncias creado y administrado por el SNA.
 * Denuncia remitida a través del módulo de captación de denuncias de COMPRANET.
 * Denuncia de particulares.
@@ -867,13 +836,11 @@ La seguridad e integridad de los denunciantes y testigos, así como el resguard
 
 El SNA será responsable de establecer las bases, recursos y políticas idóneos para hacer posible el cumplimiento de la obligación establecida en el párrafo anterior.
 
-#### Artículo 35
-Todo servidor público tendrá la obligación de denunciar bajo protesta de decir verdad y por escrito las acciones u omisiones que en el ejercicio de sus funciones tuviere conocimiento y que pudieren ser sancionadas en términos de esta Ley. También tendrá la obligación de fungir como testigo cuando se le solicite. El incumplimiento de dichas obligaciones será motivo de aplicación de las sanciones previstas para las faltas administrativas previstas en esta ley.
+`Artículo 35.` Todo servidor público tendrá la obligación de denunciar bajo protesta de decir verdad y por escrito las acciones u omisiones que en el ejercicio de sus funciones tuviere conocimiento y que pudieren ser sancionadas en términos de esta Ley. También tendrá la obligación de fungir como testigo cuando se le solicite. El incumplimiento de dichas obligaciones será motivo de aplicación de las sanciones previstas para las faltas administrativas previstas en esta ley.
 Los servidores públicos que denuncien una falta administrativa grave, o sean testigos en el procedimiento, podrán solicitar protección, reubicación de su encargo, así como el resguardo de su anonimato. La solicitud deberá ser evaluada y atendida de manera oportuna por la dependencia, entidad, órgano o institución donde presta sus servicios el denunciante. Cuando se trate de un denunciante o testigo que pretende mantener el anonimato, las autoridades encargadas de la investigación, así como los Tribunales de Justicia competentes, tendrán facultades para solicitar la reubicación del servidor público denunciante o testigo.
 Las autoridades encargadas de la investigación, así como los Tribunales de Justicia Administrativa competentes, tendrán facultades para solicitar la reubicación del servidor público denunciante o testigo.
 
-#### Artículo 36
-Con el objeto de promover la denuncia, las leyes federales y locales deberán establecer:
+`Artículo 36.` Con el objeto de promover la denuncia, las leyes federales y locales deberán establecer:
 * Un sistema de recompensas para la denuncia de casos relevantes.
 * Mecanismos eficaces para la protección de denunciantes.
 * Mecanismos eficaces para la protección de testigos.
@@ -886,8 +853,7 @@ Para la protección efectiva de denunciantes y testigos, las autoridades debera
 * Protección de la fuente de empleo o negocios.
 * Creación de alternativas razonables a la fuente de ingresos.
 
-#### Artículo 37
-Serán competentes para investigar la posible comisión de faltas administrativas graves las siguientes autoridades:
+`Artículo 37.` Serán competentes para investigar la posible comisión de faltas administrativas graves las siguientes autoridades:
 * La Auditoría Superior de la Federación, la Secretaría del Ejecutivo Federal que ejerza la función de control interno de la Administración Pública Federal, así como sus homólogos en las Entidades Federativas.
 * Los órganos que ejerzan la función de control interno en aquellos órganos a los que la Constitución o las constituciones de los Estados otorgan autonomía.
 * Los órganos que ejerzan la función de control interno de los entes públicos federales.
@@ -895,14 +861,12 @@ Serán competentes para investigar la posible comisión de faltas administrati
 * Los órganos que ejerzan la función de control interno en los entes públicos estatales y municipales, y de la Ciudad de México.
 * Los demás órganos que, de acuerdo con las leyes, ejerzan la función de control interno.
 
-#### Artículo 38
-Será responsabilidad de las autoridades encargadas de investigar la posible comisión de faltas administrativas graves establecer unidades especializadas en los temas y las materias que se requieran, atendiendo a la evaluación del riesgo inherente a las funciones de cada dependencia o entidad.
+`Artículo 38.` Será responsabilidad de las autoridades encargadas de investigar la posible comisión de faltas administrativas graves establecer unidades especializadas en los temas y las materias que se requieran, atendiendo a la evaluación del riesgo inherente a las funciones de cada dependencia o entidad.
 
-Sección I
-Del inicio de la investigación
+#### Sección I
+#### Del inicio de la investigación
 
-#### Artículo 39
-El escrito de denuncia deberá contener lo siguiente:
+`Artículo 39.` El escrito de denuncia deberá contener lo siguiente:
 
 * Nombre, denominación o razón social del denunciante, salvo en el caso de denuncia anónima.
 * Nombre del representante legal, en su caso, y documento idóneo con el que acredite su personalidad; domicilio para oír y recibir notificaciones, y personas autorizadas, así como teléfonos, correo electrónico u otros datos que permitan su pronta localización.
@@ -911,23 +875,20 @@ El escrito de denuncia deberá contener lo siguiente:
 * Listado de los documentos y los medios de convicción de lo que conozcan y que acompañen a su denuncia, relacionados de manera precisa con los hechos denunciados.
 * Los demás elementos que el denunciante estime pertinentes y, en caso de no tenerlos a su disposición, indicar el lugar o archivo en el que puedan encontrarse, para que se provea lo conducente durante la investigación.
 
-#### Artículo 40
-Una vez recibida la denuncia, las autoridades competentes procederán a su análisis a fin de dictar un acuerdo que:
+`Artículo 40.` Una vez recibida la denuncia, las autoridades competentes procederán a su análisis a fin de dictar un acuerdo que:
 * Ordene el inicio de la investigación.
 * Prevenga por única ocasión al denunciante, cuando en su escrito de denuncia se omitan los requisitos previstos en esta Ley para que la aclare o complete dentro de un plazo no mayor a quince días, mismo que la autoridad investigadora podrá ampliar por un término igual. Desahogada la prevención, dentro de los quince días siguientes, se deberá dictar el acuerdo que corresponda. Transcurrido el plazo sin que se desahogue la prevención o sin que se cumplan los requisitos señalados en esta Ley para el escrito de denuncia, se tendrá por no presentada la denuncia, salvo que advierta que existe una base razonable para continuar con la investigación.
 * Deseche la denuncia por ser notoriamente improcedente. El acuerdo de desechamiento deberá notificarse al denunciante dentro de los quince días siguientes a aquel en que haya vencido el plazo para el desahogo de la prevención, sin perjuicio de que el denunciante pueda presentar nuevamente su denuncia.
 Si no se emite acuerdo alguno dentro de los plazos antes señalados, la investigación se entenderá iniciada. En este caso, la autoridad encargada de la investigación, a solicitud del denunciante o de oficio, deberá emitir el acuerdo de admisión.
 
-#### Artículo 41
-La autoridad investigadora desechará la denuncia por notoriamente improcedente cuando:
+`Artículo 41.` La autoridad investigadora desechará la denuncia por notoriamente improcedente cuando:
 * Los hechos denunciados no sean materia de esta Ley.
 * Los hechos y conductas denunciadas hayan sido materia de una resolución previa en los términos de esta Ley, excepto en los casos de información falsa o incumplimiento de condiciones previstas en la propia resolución.
 
-Sección II
-Del desahogo de la investigación
+#### Sección II
+#### Del desahogo de la investigación
 
-#### Artículo 42
-Cuando se haya ordenado el inicio de la investigación por advertir la posible comisión de faltas administrativas graves, las autoridades investigadoras procederán inmediatamente a la preclasificación de los hechos, para dar prioridad a aquellas denuncias en las que puedan presentarse:
+`Artículo 42.` Cuando se haya ordenado el inicio de la investigación por advertir la posible comisión de faltas administrativas graves, las autoridades investigadoras procederán inmediatamente a la preclasificación de los hechos, para dar prioridad a aquellas denuncias en las que puedan presentarse:
 * Violaciones graves a los derechos humanos.
 * Afectación a la integridad o libertad física de las personas.
 * Posibles redes de corrupción, y/o
@@ -935,8 +896,7 @@ Cuando se haya ordenado el inicio de la investigación por advertir la posible 
 La preclasificación es un mecanismo para asignar prioridad a casos con las características antes mencionadas, pero no prejuzga ni califica los hechos materia de la investigación.
 La preclasificación se hará también con el objetivo de determinar aquellos casos que deban ser investigados por las Unidades Especializadas.
 
-#### Artículo 43
-Las autoridades encargadas de investigar la posible comisión de faltas administrativas graves serán responsables de la oportunidad en la investigación, la exhaustividad, la integralidad de los datos y documentos y el resguardo del expediente en su conjunto. Por lo tanto quedarán sujetas a las siguientes obligaciones:
+`Artículo 43.` Las autoridades encargadas de investigar la posible comisión de faltas administrativas graves serán responsables de la oportunidad en la investigación, la exhaustividad, la integralidad de los datos y documentos y el resguardo del expediente en su conjunto. Por lo tanto quedarán sujetas a las siguientes obligaciones:
 * Realizar la investigación de manera inmediata, eficiente, exhaustiva, profesional e imparcial; libre de estereotipos y discriminación alguna. Será calificada como Obstrucción de la Justicia Administrativa, en los términos de esta Ley, la dilación negligente o la inactividad injustificada en la investigación.
 * La investigación deberá explorar todas las líneas de investigación posibles que permitan allegarse de datos para el esclarecimiento del hecho que la ley señala como falta administrativa grave, así como la identificación de quien o quienes lo cometieron o participaron en su comisión.
 * Allegarse de todos los elementos que requieran para conocer la verdad material de un hecho o hechos denunciados.
@@ -951,19 +911,15 @@ Las autoridades encargadas de investigar la posible comisión de faltas adminis
 * Llevar el registro de todas las actuaciones que se realicen durante la investigación, utilizando al efecto cualquier medio que permita garantizar que la información recabada sea completa, íntegra y exacta. El registro de cada actuación deberá contener por lo menos la indicación de la fecha, hora y lugar en que se haya efectuado, la identificación de los servidores públicos y demás personas que hayan intervenido en el procedimiento, así como una breve descripción de la actuación y, en su caso, de sus resultados.
 * Permitir el acceso a la información relativa a la investigación tanto al denunciante como al tercero coadyuvante, siempre y cuando no ponga en riesgo la eficacia de la investigación.
 
-#### Artículo 44
-Las autoridades encargadas de la investigación podrán ordenar la acumulación de expedientes que se encuentren relacionados por razón de la materia. De igual forma, podrán ordenar la apertura de nuevas investigaciones por hechos diversos y autónomos a los inicialmente investigados, según resulte más adecuado para la pronta y expedita tramitación de las investigaciones.
+`Artículo 44.` Las autoridades encargadas de la investigación podrán ordenar la acumulación de expedientes que se encuentren relacionados por razón de la materia. De igual forma, podrán ordenar la apertura de nuevas investigaciones por hechos diversos y autónomos a los inicialmente investigados, según resulte más adecuado para la pronta y expedita tramitación de las investigaciones.
 
-#### Artículo 45
-Las autoridades encargadas de la investigación podrá requerir de cualquier persona los informes y documentos que estime necesarios para realizar sus investigaciones; debiendo señalar el carácter del requerido como denunciado o tercero coadyuvante, citar a declarar a quienes tengan relación con los hechos de que se trate, así como ordenar y practicar visitas de verificación, en donde se presuma que existen elementos para la debida integración de la investigación.
+`Artículo 45.` Las autoridades encargadas de la investigación podrá requerir de cualquier persona los informes y documentos que estime necesarios para realizar sus investigaciones; debiendo señalar el carácter del requerido como denunciado o tercero coadyuvante, citar a declarar a quienes tengan relación con los hechos de que se trate, así como ordenar y practicar visitas de verificación, en donde se presuma que existen elementos para la debida integración de la investigación.
 
 Las personas y las Autoridades Públicas tendrán un plazo de diez días para presentar los informes y documentos requeridos por las autoridades encargadas de la investigación, que a petición de las personas y las Autoridades Públicas requeridas, podrá ampliarse por una sola ocasión hasta por diez días más, si así lo amerita la complejidad o volumen de la información requerida.
 
-#### Artículo 46
-Las autoridades públicas prestarán, dentro del ámbito de su competencia, el auxilio que le sea requerido por los servidores públicos de la autoridad investigadora para el cumplimiento de sus atribuciones y aplicación de esta Ley.
+`Artículo 46.` Las autoridades públicas prestarán, dentro del ámbito de su competencia, el auxilio que le sea requerido por los servidores públicos de la autoridad investigadora para el cumplimiento de sus atribuciones y aplicación de esta Ley.
 
-#### Artículo 47
-Las autoridades encargadas de la investigación, por conducto de su titular, podrán ordenar la práctica de visitas de verificación, las cuales se sujetarán a las reglas siguientes:
+`Artículo 47.` Las autoridades encargadas de la investigación, por conducto de su titular, podrán ordenar la práctica de visitas de verificación, las cuales se sujetarán a las reglas siguientes:
 * La autoridad encargada de la investigación emitirá la orden de visita, la que contendrá el objeto, alcance y duración a los que deberá limitarse la diligencia; el nombre del visitado; la ubicación del domicilio o domicilios a visitar; el nombre o nombres del personal autorizado que la practicará conjunta o separadamente, así como el apercibimiento de que de no permitir el acceso, obstaculizar el desahogo de la diligencia o negarse a proporcionar la información o documentos solicitados, se aplicarán las medidas de apremio que establezca la ley.
 * La autoridad encargada de la investigación realizará las visitas de verificación a fin de obtener datos y documentos que se relacionen con la investigación. La práctica de las visitas no podrá exceder de dos meses, que podrá prorrogarse hasta por otro periodo igual, en caso de que así lo justifique la investigación.
 * Las visitas se practicarán en días y horas hábiles únicamente por el personal autorizado para su desahogo, previa identificación y exhibición de la orden de visita respectiva a la persona que se encuentre en el domicilio al momento de la celebración de la visita de verificación.
@@ -1000,17 +956,13 @@ Las autoridades encargadas de la investigación, por conducto de su titular, po
 
 Del acta levantada se dejará copia a la persona con quien se entendió la diligencia, aun cuando se hubiese negado a firmarla, circunstancia que no afectará su validez.
 
-#### Artículo 48
-La información y documentos que haya obtenido la autoridad encargada de la investigación en el ejercicio de sus atribuciones serán considerados como reservados, confidenciales o públicos en los términos de la legislación aplicable.
+`Artículo 48.` La información y documentos que haya obtenido la autoridad encargada de la investigación en el ejercicio de sus atribuciones serán considerados como reservados, confidenciales o públicos en los términos de la legislación aplicable.
 
-#### Artículo 49
-En cualquier momento la autoridad encargada de la investigación podrá presentar denuncia o querella ante la Fiscalía Especializada en Combate a la Corrupción respecto de probables conductas delictivas relacionadas con faltas graves constitutivas de corrupción y, en su caso, ser coadyuvante en el curso de las investigaciones que deriven de la citada denuncia o querella.
+`Artículo 49.` En cualquier momento la autoridad encargada de la investigación podrá presentar denuncia o querella ante la Fiscalía Especializada en Combate a la Corrupción respecto de probables conductas delictivas relacionadas con faltas graves constitutivas de corrupción y, en su caso, ser coadyuvante en el curso de las investigaciones que deriven de la citada denuncia o querella.
 
-#### Artículo 50
-Una vez radicada la investigación la autoridad encargada de la investigación deberá estudiar de inmediato si se requieren medidas de aseguramiento para resguardar los elementos que puedan servir de prueba en la investigación.
+`Artículo 50.` Una vez radicada la investigación la autoridad encargada de la investigación deberá estudiar de inmediato si se requieren medidas de aseguramiento para resguardar los elementos que puedan servir de prueba en la investigación.
 
-#### Artículo 51
-Las autoridades investigadoras podrán determinar la suspensión temporal del empleo, cargo o comisión del servidor público investigado, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se imputa al o los sujetos investigados.
+`Artículo 51.` Las autoridades investigadoras podrán determinar la suspensión temporal del empleo, cargo o comisión del servidor público investigado, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se imputa al o los sujetos investigados.
 
 La suspensión temporal a que se refiere el párrafo anterior suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado. La suspensión cesará cuando así lo resuelvan las autoridades encargadas de la investigación. En todos los casos, la suspensión cesará cuando se dicte la resolución en el procedimiento seguido ante el tribunal de justicia administrativa que resulte competente.
 
@@ -1018,41 +970,34 @@ Se sancionará administrativamente a la autoridad encargada de la investigacio�
 
 En el supuesto de que el servidor público suspendido temporalmente no resultare responsable de los hechos que se le imputan, la dependencia o entidad donde preste sus servicios lo restituirán en el goce de sus derechos y le cubrirán las percepciones que debió recibir durante el tiempo en que se halló suspendido.
 
-#### Artículo 52
-Cuando las personas investigadas desaparezcan, o exista riesgo inminente de que oculten, enajenen o dilapiden los bienes objeto del ilícito, se solicitará a la Tesorería de la Federación, o a las tesorerías locales en el ámbito de sus competencias, procedan al embargo precautorio de sus bienes, a fin de garantizar la recuperación del daño causado al erario o los bienes obtenidos ilegalmente, así como el cobro de las sanciones económicas que llegaren a imponerse con motivo de la infracción cometida. Impuesta la sanción económica, el embargo precautorio se convertirá en definitivo.
+`Artículo 52.` Cuando las personas investigadas desaparezcan, o exista riesgo inminente de que oculten, enajenen o dilapiden los bienes objeto del ilícito, se solicitará a la Tesorería de la Federación, o a las tesorerías locales en el ámbito de sus competencias, procedan al embargo precautorio de sus bienes, a fin de garantizar la recuperación del daño causado al erario o los bienes obtenidos ilegalmente, así como el cobro de las sanciones económicas que llegaren a imponerse con motivo de la infracción cometida. Impuesta la sanción económica, el embargo precautorio se convertirá en definitivo.
 
 El incumplimiento a lo dispuesto en este artículo por parte del jefe inmediato del titular de la dependencia o entidad correspondiente o de los servidores públicos de la Tesorería de la Federación, será sancionado administrativamente en los términos que la Ley señale.
 
-#### Artículo 53
-En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios.
+`Artículo 53.` En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios.
 
 Las autoridades encargadas de la investigación en coordinación con el SNA celebrarán convenios de colaboración con el SAT, la CNBV y otras autoridades financieras y fiscales, para establecer las medidas y los protocolos necesarios para conectarse directamente a sus sistemas, con el objeto de contar con herramientas efectivas y eficaces para investigar faltas administrativas graves en los que estén involucrados flujos de recursos económicos.
 
-#### Artículo 54
-Para la investigación de posibles actos de corrupción, y la identificación de redes que los realizan, las autoridades investigadoras podrán utilizar la estrategia del Usuario Simulado a fin de sorprender en flagrancia a quien o quienes pretenden beneficiarse con el uso ilegal de recursos públicos. El Usuario Simulado será utilizado para documentar actos de corrupción en tiempo real; no para provocarlos.
+`Artículo 54.` Para la investigación de posibles actos de corrupción, y la identificación de redes que los realizan, las autoridades investigadoras podrán utilizar la estrategia del Usuario Simulado a fin de sorprender en flagrancia a quien o quienes pretenden beneficiarse con el uso ilegal de recursos públicos. El Usuario Simulado será utilizado para documentar actos de corrupción en tiempo real; no para provocarlos.
 
 Asimismo, la autoridad encargada de la investigación podrá utilizar medios de grabación y registro ocultos para documentar las circunstancias de tiempo, modo y lugar en las que suceden los hechos materia de la investigación. Para la intervención de comunicaciones privadas se requerirá de autorización del tribunal de justicia administrativa que resulte competente y para tal efecto se estará al procedimiento establecido en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
-#### Artículo 55
-Cuando una persona moral sea señalada en un acto de corrupción tipificado por esta Ley, podrá delimitar su responsabilidad administrativa, si es posible separar su conducta, de la conducta de aquella persona que materializó el acto de corrupción.
+`Artículo 55.` Cuando una persona moral sea señalada en un acto de corrupción tipificado por esta Ley, podrá delimitar su responsabilidad administrativa, si es posible separar su conducta, de la conducta de aquella persona que materializó el acto de corrupción.
 
 Las personas morales que se denuncien a sí mismas, por actos de personas físicas que pertenecen a ellas, podrán negociar un convenio con las autoridades investigadoras para los efectos de reducir la sanción a la persona moral.
 
-Sección III
-De la conclusión de la investigación
+#### Sección III
+#### De la conclusión de la investigación
 
-#### Artículo 56
-Concluida la investigación, la autoridad investigadora integrará el expediente en el que se determine:
+`Artículo 56.` Concluida la investigación, la autoridad investigadora integrará el expediente en el que se determine:
 * La existencia de elementos objetivos que hagan probable la responsabilidad del sujeto investigado, o
 * El cierre del expediente en caso de que no se desprendan elementos para iniciar el procedimiento en forma de instrucción.
 
 En el primer caso, las autoridades encargadas de la investigación turnarán el expediente al Tribunal de Justicia Administrativa que resulte competente quien se encargará de sustanciar el procedimiento seguido en forma de juicio y sancionar las faltas administrativas graves. Los denunciantes y terceros coadyuvantes podrán impugnar la decisión de cierre del expediente por parte de las autoridades encargadas de la investigación, en los términos de esta Ley.
 
-#### Artículo 57
-El Tribunal Federal de Justicia Administrativa será competente para conocer de las faltas administrativas graves en las que estén involucrados el uso, manejo, administración y aplicación de fondos, bienes, y recursos federales.
+`Artículo 57.` El Tribunal Federal de Justicia Administrativa será competente para conocer de las faltas administrativas graves en las que estén involucrados el uso, manejo, administración y aplicación de fondos, bienes, y recursos federales.
 
-#### Artículo 58
-El dictamen por el que se turne el expediente a los tribunales de justicia administrativa deberá contener al menos lo siguiente:
+`Artículo 58.` El dictamen por el que se turne el expediente a los tribunales de justicia administrativa deberá contener al menos lo siguiente:
 
 * La identificación de los sujetos investigados y, en su caso, del o los probables responsables.
 * Los hechos investigados y la probable comisión de faltas administrativas graves o no graves relacionadas con aquellas.
@@ -1062,13 +1007,13 @@ El dictamen por el que se turne el expediente a los tribunales de justicia admin
 
 Si de la investigación surgieren elementos que pudieran configurar conductas sancionadas penalmente, la autoridad investigadora hará del conocimiento a la Fiscalía competente. En los casos de enriquecimiento ilícito, podrá solicitar se ejerza la acción de extinción de dominio.
 
-CAPÍTULO III
-Del procedimiento ante el tribunal
-Sección I
-De la recepción del expediente y del emplazamiento
+### CAPÍTULO III
+### Del procedimiento ante el tribunal
 
-#### Artículo 59
-Una vez recibido el expediente en el que la autoridad investigadora determinó la probable responsabilidad del sujeto investigado, y antes de proceder a la radicación, el tribunal de justicia administrativa al que le fue turnado el expediente deberá revisar:
+#### Sección I
+#### De la recepción del expediente y del emplazamiento
+
+`Artículo 59.` Una vez recibido el expediente en el que la autoridad investigadora determinó la probable responsabilidad del sujeto investigado, y antes de proceder a la radicación, el tribunal de justicia administrativa al que le fue turnado el expediente deberá revisar:
 * Si a su juicio se encuentra debidamente integrado.
 * Si considera que en la etapa de investigación se realizaron todas las diligencias necesarias para encontrar la verdad material de los hechos.
 * Si el acto o los actos están debidamente calificados.
@@ -1080,17 +1025,14 @@ Cuando la autoridad encargada de la investigación se niegue a acatar el requer
 
 En caso de que el expediente esté debidamente integrado el tribunal de justicia administrativa que corresponda procederá al emplazamiento de los probables responsables.
 
-#### Artículo 60
-Son partes en el procedimiento ante el tribunal de justicia administrativa que resulte competente el o los sujetos en contra de quienes se determinó la probable responsabilidad y la autoridad que estuvo a cargo de la etapa de investigación.
+`Artículo 60.` Son partes en el procedimiento ante el tribunal de justicia administrativa que resulte competente el o los sujetos en contra de quienes se determinó la probable responsabilidad y la autoridad que estuvo a cargo de la etapa de investigación.
 
-#### Artículo 61
-Quien haya presentado la denuncia que dio inicio a la investigación podrá ser coadyuvante de la autoridad investigadora en el procedimiento seguido ante el tribunal de justicia administrativa que resulte competente.
+`Artículo 61.` Quien haya presentado la denuncia que dio inicio a la investigación podrá ser coadyuvante de la autoridad investigadora en el procedimiento seguido ante el tribunal de justicia administrativa que resulte competente.
 
-Sección II
-Del desahogo del procedimiento
+#### Sección II
+#### Del desahogo del procedimiento
 
-#### Artículo 62
-El procedimiento seguido ante el tribunal de justicia administrativa que resulte competente se tramitará conforme a lo siguiente:
+`Artículo 62.` El procedimiento seguido ante el tribunal de justicia administrativa que resulte competente se tramitará conforme a lo siguiente:
 * Una vez emplazado, el probable responsable tendrá acceso al expediente y se le citará a una audiencia notificándosele que debe comparecer personalmente a rendir su declaración en torno a los hechos que se le imputan, y que puedan ser causa de responsabilidad administrativa grave, en los términos de esta Ley. En la notificación deberá expresarse el lugar, día y hora en que tendrá verificativo la audiencia; la autoridad ante la cual se desarrollará ésta; los actos u omisiones que se le imputen al servidor público, y el derecho de éste a comparecer asistido de un defensor. La notificación a que se refiere esta fracción se practicará de manera personal al presunto responsable. Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de treinta días hábiles.
 * Concluida la audiencia, se concederá al presunto responsable un plazo de treinta días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen. El emplazado podrá solicitar la ampliación de este plazo por otros treinta días, cuando exista causa justificada. El emplazado deberá referirse a cada uno de los hechos expresados en el expediente en el que se determinó la probable responsabilidad.
 * Con las manifestaciones del probable responsable se dará vista a la autoridad que se encargó de la investigación, para que en un plazo máximo de quince días hábiles se pronuncie respecto de los argumentos y pruebas ofrecidas.
@@ -1101,8 +1043,7 @@ El procedimiento seguido ante el tribunal de justicia administrativa que resulte
 
 Los plazos a que se refiere este artículo deberán ser respetados en los términos establecidos en esta Ley. Sólo podrán ser ampliados por causa razonada y justificada, o a petición de cualquier interesado en el proceso.
 
-#### Artículo 63
-Para los efectos de esta Ley, habrá acumulación de procesos cuando: I. Se trate de concurso de faltas administrativas graves.
+`Artículo 63.` Para los efectos de esta Ley, habrá acumulación de procesos cuando: I. Se trate de concurso de faltas administrativas graves.
 * Se trate de concurso de faltas administrativas graves.
 * Se investiguen faltas administrativas graves o no graves conexas.
 * En aquellos casos seguidos contra los autores o partícipes de una misma falta administrativa grave; o
@@ -1112,22 +1053,18 @@ Se entenderá que existe conexidad de faltas administrativas graves cuando se h
 
 Existe concurso real cuando con pluralidad de conductas se cometen varios actos de corrupción. Existe concurso ideal cuando con una sola conducta se cometen varios actos de corrupción. No existirá concurso cuando se trate de un acto continuado en términos de la legislación aplicable.
 
-#### Artículo 64
-Cuando dos o más procesos sean susceptibles de acumulación, y se sigan ante diversos tribunales administrativos, se procederá conforme a lo siguiente:
+`Artículo 64.` Cuando dos o más procesos sean susceptibles de acumulación, y se sigan ante diversos tribunales administrativos, se procederá conforme a lo siguiente:
 * Será competente el que conozca de la falta administrativa grave cuya punibilidad sea mayor. Si los actos señalados implican similar punibilidad, la competencia será del que conozca de los actos procesales más antiguos.
 * Si las faltas administrativas graves comenzaron en la misma fecha, el que previno primero. Para efectos de este artículo, se entenderá que previno quien dictó la primera resolución del procedimiento.
 
-Sección III
-De la resolución definitiva
+#### Sección III
+#### De la resolución definitiva
 
-#### Artículo 65
-El Tribunal resolverá dentro de los sesenta días hábiles siguientes al cierre de la instrucción, sobre la inexistencia o existencia de responsabilidad, caso en el que impondrá al infractor las sanciones administrativas correspondientes.
+`Artículo 65.` El Tribunal resolverá dentro de los sesenta días hábiles siguientes al cierre de la instrucción, sobre la inexistencia o existencia de responsabilidad, caso en el que impondrá al infractor las sanciones administrativas correspondientes.
 
-#### Artículo 66
-El Tribunal que instruyó el procedimiento seguido ante el tribunal de justicia administrativa que resulte competente analizará todas y cada una de las constancias que obren en el expediente, con el fin de que la resolución que se emita se encuentre debidamente fundada y motivada. La resolución debe elaborarse con una estructura lógica que haga asequible los elementos de juicio en que la autoridad sustenta su determinación final.
+`Artículo 66.` El Tribunal que instruyó el procedimiento seguido ante el tribunal de justicia administrativa que resulte competente analizará todas y cada una de las constancias que obren en el expediente, con el fin de que la resolución que se emita se encuentre debidamente fundada y motivada. La resolución debe elaborarse con una estructura lógica que haga asequible los elementos de juicio en que la autoridad sustenta su determinación final.
 
-#### Artículo 67
-La Resolución contendrá:
+`Artículo 67.` La Resolución contendrá:
 * La mención del órgano jurisdiccional que la emite y el nombre del Magistrado o Juez.
 * La fecha en que se dicta.
 * Identificación del acusado.
@@ -1139,30 +1076,26 @@ La Resolución contendrá:
 * Los resolutivos de absolución o responsabilidad en los que, en su caso, el órgano jurisdiccional se pronuncia.
 * La firma del Magistrado o Juez que dicta la resolución.
 
-#### Artículo 68
-La resolución pone fin al procedimiento de responsabilidades y se notificará personalmente, en un plazo no mayor de diez días hábiles, al o los sujetos investigados así como al jefe inmediato o al titular de la dependencia o entidad a quien, en su caso, corresponda la ejecución de la resolución definitiva. Los superiores jerárquicos que se nieguen a ejecutar la resolución y/o dilaten su ejecución sin causa lógica y justificada, incurrirán en Obstrucción de Justicia en los términos de esta Ley.
+`Artículo 68.` La resolución pone fin al procedimiento de responsabilidades y se notificará personalmente, en un plazo no mayor de diez días hábiles, al o los sujetos investigados así como al jefe inmediato o al titular de la dependencia o entidad a quien, en su caso, corresponda la ejecución de la resolución definitiva. Los superiores jerárquicos que se nieguen a ejecutar la resolución y/o dilaten su ejecución sin causa lógica y justificada, incurrirán en Obstrucción de Justicia en los términos de esta Ley.
 
 La Resolución también será comunicada, en el mismo plazo señalado en el párrafo anterior, al Secretariado del Comité Coordinador del Sistema Nacional Anticorrupción para su inmediata incorporación al Registro Nacional de Servidores Públicos Sancionados.
 
-CAPÍTULO IV
-Disposiciones comunes a la investigación y al procedimiento ante el tribunal de justicia administrativa
+### CAPÍTULO IV
+### Disposiciones comunes a la investigación y al procedimiento ante el tribunal de justicia administrativa
 
-Sección I
-De las pruebas y su valoración
+#### Sección I
+#### De las pruebas y su valoración
 
-#### Artículo 69
-Cualquier hecho puede ser probado por cualquier medio, siempre y cuando sea lícito.
+`Artículo 69.` Cualquier hecho puede ser probado por cualquier medio, siempre y cuando sea lícito.
 
 El Tribunal dará el valor correspondiente a cada una de las pruebas, de manera libre y lógica, deberá justificar adecuadamente el valor otorgado a las pruebas, y explicará y justificará su valoración con base en la apreciación conjunta, integral y armónica de todos los elementos probatorios directos, indirectos e indiciarios que aparezcan en el procedimiento.
 
-#### Artículo 70
-Se considera prueba ilícita cualquier dato o prueba obtenido con violación de los derechos fundamentales, lo que será motivo de exclusión o nulidad. Las partes harán valer la nulidad del medio de prueba en cualquier etapa del proceso y el Tribunal deberá pronunciarse al respecto, atendiendo a los efectos directos y proporcionales que dichas violaciones tengan en el medio de prueba.
+`Artículo 70.` Se considera prueba ilícita cualquier dato o prueba obtenido con violación de los derechos fundamentales, lo que será motivo de exclusión o nulidad. Las partes harán valer la nulidad del medio de prueba en cualquier etapa del proceso y el Tribunal deberá pronunciarse al respecto, atendiendo a los efectos directos y proporcionales que dichas violaciones tengan en el medio de prueba.
 
-Sección II
-De las medidas cautelares
+#### Sección II
+#### De las medidas cautelares
 
-#### Artículo 71
-El Tribunal que instruye el procedimiento seguido en forma de juicio podrá imponer las siguientes medidas cautelares:
+`Artículo 71.` El Tribunal que instruye el procedimiento seguido en forma de juicio podrá imponer las siguientes medidas cautelares:
 * La exhibición de una garantía económica.
 * El embargo de bienes.
 * La inmovilización de cuentas y demás valores que se encuentren dentro del sistema financiero.
@@ -1172,24 +1105,26 @@ El Tribunal que instruye el procedimiento seguido en forma de juicio podrá imp
 
 Las medidas cautelares no podrán ser usadas como medio para obtener un reconocimiento de responsabilidad o como sanción administrativa anticipada.
 
-Sección III
-De las medidas de apremio
+#### Sección III
+#### De las medidas de apremio
 
-#### Artículo 72
-Para el cumplimiento de las atribuciones que les confiere la Ley, la Secretaría, el contralor interno o los titulares de las áreas de auditoría, de quejas y de responsabilidades, podrán emplear los siguientes medios de apremio:
+`Artículo 72.` Para el cumplimiento de las atribuciones que les confiere la Ley, la Secretaría, el contralor interno o los titulares de las áreas de auditoría, de quejas y de responsabilidades, podrán emplear los siguientes medios de apremio:
 * Multa de hasta veinte veces la Unidad de Cuenta vigente en el Ciudad de México.
 * Auxilio de la fuerza pública.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
 
-TÍTULO SEXTO DE LAS SANCIONES
-CAPÍTULO I Disposiciones generales
+TÍTULO SEXTO 
+------------
+DE LAS SANCIONES
+----------------
 
-#### Artículo 73
-Quienes incurran en las responsabilidades administrativas a que se refiere esta ley serán sancionados conforme al presente Título.
+### CAPÍTULO I 
+### Disposiciones generales
 
-#### Artículo 74
-Las sanciones por faltas administrativas establecidas en esta Ley consistirán en:
+`Artículo 73.` Quienes incurran en las responsabilidades administrativas a que se refiere esta ley serán sancionados conforme al presente Título.
+
+`Artículo 74.` Las sanciones por faltas administrativas establecidas en esta Ley consistirán en:
 * Amonestación.
 * Sanciones económicas.
 * Resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos federales, locales o municipales.
@@ -1199,14 +1134,14 @@ Las sanciones por faltas administrativas establecidas en esta Ley consistirán 
 * Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 * Inhabilitación temporal para participar en adquisiciones, arrendamientos, servicios, obra pública, recibir subsidios, donativos, u otros beneficios que establezcan las leyes.
 
-#### Artículo 75
-Las facultades de las autoridades competentes para imponer las sanciones administrativas previstas en esta Ley prescribirán en un plazo de 10 años, contados a partir del día siguiente de aquél en que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado, si fueren de carácter continuo.
+`Artículo 75.` Las facultades de las autoridades competentes para imponer las sanciones administrativas previstas en esta Ley prescribirán en un plazo de 10 años, contados a partir del día siguiente de aquél en que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado, si fueren de carácter continuo.
 
 Para los efectos del presente artículo la prescripción se interrumpe con la notificación del inicio del procedimiento administrativo sancionador o con la impugnación de la resolución respectiva por el infractor.
 
-CAPÍTULO II
-De los criterios para la determinación de sanciones
-Artículo 76. Para la imposición de las sanciones administrativas se tomarán en cuenta los elementos:
+### CAPÍTULO II
+### De los criterios para la determinación de sanciones
+
+`Artículo 76` Para la imposición de las sanciones administrativas se tomarán en cuenta los elementos:
 * La gravedad de la responsabilidad en que se incurra.
 * El grado y forma de participación en los hechos.
 * El tipo de funciones del servidor público y el impacto del acto en la sociedad.
@@ -1221,11 +1156,9 @@ Para los efectos de esta Ley, se considerará reincidente al servidor público
 
 Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
-#### Artículo 77
-La persona que haya realizado alguno de los actos de corrupción previstos en esta Ley, o bien, que se encuentre participando en su realización, podrá confesar su responsabilidad con el objeto de acogerse al beneficio de reducción de sanciones establecido en este artículo. Esta confesión se podrá hacer ante cualquier autoridad que tenga facultades de investigación, señaladas en esta Ley.
+`Artículo 77.` La persona que haya realizado alguno de los actos de corrupción previstos en esta Ley, o bien, que se encuentre participando en su realización, podrá confesar su responsabilidad con el objeto de acogerse al beneficio de reducción de sanciones establecido en este artículo. Esta confesión se podrá hacer ante cualquier autoridad que tenga facultades de investigación, señaladas en esta Ley.
 
-#### Artículo 78
-La aplicación del beneficio a que hace referencia el artículo anterior, tendrá por efecto una reducción de entre el cincuenta y el setenta por ciento del monto de las sanciones que se impongan al responsable. Para su procedencia será necesario que adicionalmente se cumplan los siguientes requisitos:
+`Artículo 78.` La aplicación del beneficio a que hace referencia el artículo anterior, tendrá por efecto una reducción de entre el cincuenta y el setenta por ciento del monto de las sanciones que se impongan al responsable. Para su procedencia será necesario que adicionalmente se cumplan los siguientes requisitos:
 * Que no se haya notificado a ninguno de los presuntos infractores el inicio del procedimiento administrativo sancionador.
 * Que la persona que pretende acogerse a este beneficio, sea entre los sujetos involucrados en la infracción, la primera en aportar los elementos de convicción suficientes y que a juicio de las autoridades competentes permitan comprobar la existencia de la infracción.
 * Que la persona que pretende acogerse al beneficio coopere en forma plena y continua con la autoridad competente que lleve a cabo la investigación y, en su caso, con la que substancie el procedimiento administrativo sancionador conducente.
@@ -1233,58 +1166,48 @@ La aplicación del beneficio a que hace referencia el artículo anterior, tend
 
 Además de los requisitos señalados, para la aplicación del beneficio al que refiere este artículo se constatará la veracidad de la confesión realizada.
 
-#### Artículo 79
-Una vez iniciado el procedimiento seguido ante el tribunal de justicia administrativa competente, si el presunto infractor confiesa su responsabilidad sobre los actos que se le imputan, se le aplicará una reducción de hasta el cincuenta por ciento del monto de las sanciones que se impongan, siempre que lo haga antes del cierre de la instrucción.
+`Artículo 79.` Una vez iniciado el procedimiento seguido ante el tribunal de justicia administrativa competente, si el presunto infractor confiesa su responsabilidad sobre los actos que se le imputan, se le aplicará una reducción de hasta el cincuenta por ciento del monto de las sanciones que se impongan, siempre que lo haga antes del cierre de la instrucción.
 
-#### Artículo 80
-La inhabilitación se imponga como consecuencia de las faltas a que se refiere esta ley, será de uno a veinte años.
+`Artículo 80.` La inhabilitación se imponga como consecuencia de las faltas a que se refiere esta ley, será de uno a veinte años.
 
-#### Artículo 81
-La sanción económica deberá establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable, y tomando en consideración los daños y perjuicios patrimoniales causados por los actos u omisiones constitutivos de responsabilidades administrativas. Tratándose de faltas administrativas graves, la sanción económica que se imponga, cuando se compruebe beneficio o lucro económico por parte del sujeto responsable, en ningún caso podrá ser menor o igual al monto de los beneficios o lucro obtenidos, ni superior en un 30 por ciento del referido beneficio o lucro económico.
+`Artículo 81.` La sanción económica deberá establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable, y tomando en consideración los daños y perjuicios patrimoniales causados por los actos u omisiones constitutivos de responsabilidades administrativas. Tratándose de faltas administrativas graves, la sanción económica que se imponga, cuando se compruebe beneficio o lucro económico por parte del sujeto responsable, en ningún caso podrá ser menor o igual al monto de los beneficios o lucro obtenidos, ni superior en un 30 por ciento del referido beneficio o lucro económico.
 
 Las sanciones económicas serán ejecutadas de manera directa por el Tribunal que impuso la sanción, quien podrá solicitar la intervención de la Secretaría de Hacienda y Crédito Público para hacerla efectiva. Para estos efectos, tendrá facultades para solicitar a las autoridades competentes el congelamiento de cuentas bancarias, así como de realizar convenios resarcitorios y de ejecución alternativa con el servidor público.
 
 El monto de la sanción económica impuesta se actualizará, para efectos de su pago, en la forma y términos que establece el Código Fiscal de la Federación, en tratándose de contribuciones y aprovechamientos.
 
-#### Artículo 82
-También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, federales, locales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se aplicará un criterio de proporcionalidad de la medida y se ejecutará hasta que la resolución sea definitiva.
+`Artículo 82.` También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, federales, locales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se aplicará un criterio de proporcionalidad de la medida y se ejecutará hasta que la resolución sea definitiva.
 
 Se considerará como atenuante en la imposición de sanciones cuando los órganos de administración, representación, vigilancia o los socios de las personas morales denuncien, colaboren en las investigaciones proporcionando la información y los elementos que posean, resarzan los daños que se hubieren causado, Las empresas que conocen presuntos actos de corrupción de personas físicas que pertenecen a aquellas, y no los denuncian, agravarán por ese sólo hecho la sanción que corresponda a la persona moral.
 
-CAPÍTULO III
-Del Registro Nacional de Servidores Públicos Sancionados
+### CAPÍTULO III
+### Del Registro Nacional de Servidores Públicos Sancionados
 
-#### Artículo 83
-El SNA será responsable de crear, controlar, vigilar y administrar el RNSPS.
+`Artículo 83.` El SNA será responsable de crear, controlar, vigilar y administrar el RNSPS.
 
 El RNSPS será público, y será de consulta obligatoria para todas las dependencias, entidades y órganos de todos los Poderes, Órdenes de gobierno, y Órganos Autónomos del Estado Mexicano, así como de las empresas productivas del Estado, en sus procesos de selección, incorporación, contratación, comisión o empleo de cualquier persona.
 
-#### Artículo 84
-La información que obre en el RNSPS tendrá validez y surtirá sus efectos en la calificación de la legalidad de candidaturas a cargos de elección popular. Los organismos electorales nacional y locales estarán obligados a consultarlo en lo conducente en los procedimientos que ante ellos se realicen.
+`Artículo 84.` La información que obre en el RNSPS tendrá validez y surtirá sus efectos en la calificación de la legalidad de candidaturas a cargos de elección popular. Los organismos electorales nacional y locales estarán obligados a consultarlo en lo conducente en los procedimientos que ante ellos se realicen.
 
-#### Artículo 85
-El RNSPS deberá contener las resoluciones en texto completo que hayan sido notificadas a las personas sancionadas. A solicitud del interesado también podrá publicarse las resoluciones que declaren su no responsabilidad.
+`Artículo 85.` El RNSPS deberá contener las resoluciones en texto completo que hayan sido notificadas a las personas sancionadas. A solicitud del interesado también podrá publicarse las resoluciones que declaren su no responsabilidad.
 
-#### Artículo 86
-La inscripción en el RNSPS se cancelará por resolución de autoridad competente.
+`Artículo 86.` La inscripción en el RNSPS se cancelará por resolución de autoridad competente.
 
 
 TÍTULO SÉPTIMO
+--------------
 DE LAS MEDIDAS DE EJECUCIÓN
+---------------------------
 
-#### Artículo 87
-El tribunal de justicia administrativa que resulte competente determinará la forma, modo, tiempo y las autoridades que deberán ejecutar las sanciones y deberán verificar su cumplimiento.
+`Artículo 87.` El tribunal de justicia administrativa que resulte competente determinará la forma, modo, tiempo y las autoridades que deberán ejecutar las sanciones y deberán verificar su cumplimiento.
 
-#### Artículo 88
-En caso de que la resolución firme no se ejecutare, la autoridad que hubiere realizado la investigación, o las personas que hubieren denunciado o actuado como coadyuvantes, podrán denunciar tales hechos ante la autoridad jurisdiccional competente la cual dictará las medidas de apremio y, en su caso, dará parte a la autoridad competente si hubiese responsabilidades administrativas o penales.
+`Artículo 88.` En caso de que la resolución firme no se ejecutare, la autoridad que hubiere realizado la investigación, o las personas que hubieren denunciado o actuado como coadyuvantes, podrán denunciar tales hechos ante la autoridad jurisdiccional competente la cual dictará las medidas de apremio y, en su caso, dará parte a la autoridad competente si hubiese responsabilidades administrativas o penales.
 
 TÍTULO OCTAVO DE LOS RECURSOS
 
-#### Artículo 89
-El denunciante o coadyuvante en el procedimiento de investigación podrá impugnar ante el tribunal de justicia administrativa que resulte competente la resolución de la autoridad responsable de la investigación en la que se determine el cierre del expediente por falta de elementos para iniciar el procedimiento ante el tribunal.
+`Artículo 89.` El denunciante o coadyuvante en el procedimiento de investigación podrá impugnar ante el tribunal de justicia administrativa que resulte competente la resolución de la autoridad responsable de la investigación en la que se determine el cierre del expediente por falta de elementos para iniciar el procedimiento ante el tribunal.
 
-#### Artículo 90
-La autoridad responsable de la investigación, el denunciante o el tercero coadyuvante podrán interponer el recurso de revisión ante el Tribunal Colegiado competente, o los correspondientes de las entidades federativas, dentro de los quince días siguientes a que surta sus efectos la notificación, en los siguientes supuestos:
+`Artículo 90.` La autoridad responsable de la investigación, el denunciante o el tercero coadyuvante podrán interponer el recurso de revisión ante el Tribunal Colegiado competente, o los correspondientes de las entidades federativas, dentro de los quince días siguientes a que surta sus efectos la notificación, en los siguientes supuestos:
 * El tribunal de justicia administrativa se haya negado a recibir un expediente para su instrucción.
 * Se declare la no responsabilidad de las personas sujetas a procedimiento.
 * Se inconforme con los términos en los que se emite la resolución definitiva.
@@ -1293,10 +1216,11 @@ La autoridad responsable de la investigación, el denunciante o el tercero coad
  En contra de las resoluciones definitivas que pronuncien los tribunales de justicia administrativa competentes, las personas afectadas podrán promover el juicio de amparo directo, en los términos de la ley reglamentaria.
 
 TÍTULO NOVENO
+-------------
 DE LOS INSTRUMENTOS DE RENDICIÓN DE CUENTAS
+--------------------------------------------
 
-#### Artículo 92
-Las autoridades encargadas de aplicar e interpretar el presente ordenamiento, en los términos del artículo 6, llevarán un sistema público de registro y seguimiento tanto de la declaración de intereses como de la declaración patrimonial de los sujetos obligados.
+`Artículo 92.` Las autoridades encargadas de aplicar e interpretar el presente ordenamiento, en los términos del artículo 6, llevarán un sistema público de registro y seguimiento tanto de la declaración de intereses como de la declaración patrimonial de los sujetos obligados.
 
 La declaración de intereses tendrá por objeto informar y determinar el conjunto de intereses de un servidor público a fin de delimitar cuando éstos entran en conflicto con su función. Habrá intereses en conflicto cuando los intereses personales, familiares o de negocios del servidor público o sujeto obligado puedan afectar el desempeño imparcial de su empleo, cargo o comisión.
 
@@ -1304,19 +1228,18 @@ La declaración patrimonial documentará la integración del patrimonio del s
 
 Las autoridades competentes podrán llevar a cabo investigaciones o auditorías para verificar la veracidad de las declaraciones y la evolución del patrimonio de los sujetos obligados por la Ley y darán cuenta al Ministerio Público cuando el sujeto a la verificación de evolución patrimonial no justifique la procedencia lícita del incremento sustancial en el patrimonio verificado.
 
-#### Artículo 93
-Las autoridades encargadas de aplicar e interpretar el presente ordenamiento, en los términos del artículo 6, emitirán para cada una de sus instituciones un Código de Ética, de carácter público, que contendrá reglas claras para que, en la actuación de los servidores públicos y demás sujetos obligados, impere invariablemente una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño en situaciones específicas que se les presenten, propiciando así una plena vocación del servicio público en beneficio de la colectividad. La base para crear los códigos de ética serán los principios, directrices y obligaciones señalados en esta Ley General.
+`Artículo 93.` Las autoridades encargadas de aplicar e interpretar el presente ordenamiento, en los términos del artículo 6, emitirán para cada una de sus instituciones un Código de Ética, de carácter público, que contendrá reglas claras para que, en la actuación de los servidores públicos y demás sujetos obligados, impere invariablemente una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño en situaciones específicas que se les presenten, propiciando así una plena vocación del servicio público en beneficio de la colectividad. La base para crear los códigos de ética serán los principios, directrices y obligaciones señalados en esta Ley General.
 
-#### Artículo 94
-Las autoridades encargadas de aplicar e interpretar el presente ordenamiento, en los términos del artículo 6, emitirán anualmente un diagnóstico de responsabilidades administrativas que permita evaluar e implementar acciones tendientes al cabal cumplimiento de los principios, directrices y obligaciones del servicio público a los que se refiere esta Ley. El diagnóstico será de carácter público.
+`Artículo 94.` Las autoridades encargadas de aplicar e interpretar el presente ordenamiento, en los términos del artículo 6, emitirán anualmente un diagnóstico de responsabilidades administrativas que permita evaluar e implementar acciones tendientes al cabal cumplimiento de los principios, directrices y obligaciones del servicio público a los que se refiere esta Ley. El diagnóstico será de carácter público.
 
 TRANSITORIOS
+------------
 
-PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-SEGUNDO. Se derogan todas las disposiciones que se opongan a lo previsto en la presente Ley.
-TERCERO. Los procedimientos administrativos iniciados antes de la entrada en vigor del presente Decreto se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las sanciones correspondientes.
-CUARTO. El Congreso de la Unión, los Congresos de los Estados y la Asamblea Legislativa de la Ciudad de México procederán a crear las nuevas leyes o a hacer las reformas en las leyes específicas actuales que sean pertinentes para armonizar, en lo conducente, su sistema jurídico con la presente Ley en un plazo no mayor a un año contado a partir de la entrada en vigor de la presente Ley. En particular, deberán reformar sus correspondientes códigos penales para asegurar que sean congruentes con lo establecido en la presente ley y en las convenciones internacionales de las que México sea parte. Para efectos de la armonización, los Congresos de los Estados y la Asamblea Legislativa de la Ciudad de México deberán tomar en consideración la sistematicidad jurídica que la presente Ley guarda con la Ley General del Sistema Nacional Anticorrupción.
-QUINTO. El Congreso de la Unión, en un plazo no mayor a un año contado a partir de la entrada en vigor de la presente Ley, procederá a hacer las reformas en el Código Penal Federal que sean pertinentes para asegurar su congruencia con lo establecido en la presente Ley y en las convenciones internacionales de las que México sea parte. Para efectos de la armonización, el Congreso de la Unión deberá tomar en consideración la sistematicidad jurídica que la presente Ley guarda con la Ley General del Sistema Nacional Anticorrupción.
-SEXTO. El Congreso de la Unión deberá garantizar la viabilidad presupuestal para la creación y gestión del Registro Nacional de Servidores Públicos Sancionados conforme a lo establecido en la presente Ley.
-SÉPTIMO. El Congreso de la Unión deberá garantizar la viabilidad presupuestal para la creación y gestión del sistema de denuncias establecido en la presente Ley.
-OCTAVO. Conforme al artículo 38 de la presente Ley, las entidades responsables de investigar la posible comisión de faltas administrativas graves deberán evaluar el riesgo inherente a sus correspondientes funciones para efectos de establecer las unidades especializadas en los temas y las materias que se requieran.
+`PRIMERO.` La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+`SEGUNDO.` Se derogan todas las disposiciones que se opongan a lo previsto en la presente Ley.
+`TERCERO.` Los procedimientos administrativos iniciados antes de la entrada en vigor del presente Decreto se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las sanciones correspondientes.
+`CUARTO.` El Congreso de la Unión, los Congresos de los Estados y la Asamblea Legislativa de la Ciudad de México procederán a crear las nuevas leyes o a hacer las reformas en las leyes específicas actuales que sean pertinentes para armonizar, en lo conducente, su sistema jurídico con la presente Ley en un plazo no mayor a un año contado a partir de la entrada en vigor de la presente Ley. En particular, deberán reformar sus correspondientes códigos penales para asegurar que sean congruentes con lo establecido en la presente ley y en las convenciones internacionales de las que México sea parte. Para efectos de la armonización, los Congresos de los Estados y la Asamblea Legislativa de la Ciudad de México deberán tomar en consideración la sistematicidad jurídica que la presente Ley guarda con la Ley General del Sistema Nacional Anticorrupción.
+`QUINTO.` El Congreso de la Unión, en un plazo no mayor a un año contado a partir de la entrada en vigor de la presente Ley, procederá a hacer las reformas en el Código Penal Federal que sean pertinentes para asegurar su congruencia con lo establecido en la presente Ley y en las convenciones internacionales de las que México sea parte. Para efectos de la armonización, el Congreso de la Unión deberá tomar en consideración la sistematicidad jurídica que la presente Ley guarda con la Ley General del Sistema Nacional Anticorrupción.
+`SEXTO.` El Congreso de la Unión deberá garantizar la viabilidad presupuestal para la creación y gestión del Registro Nacional de Servidores Públicos Sancionados conforme a lo establecido en la presente Ley.
+`SÉPTIMO.` El Congreso de la Unión deberá garantizar la viabilidad presupuestal para la creación y gestión del sistema de denuncias establecido en la presente Ley.
+`OCTAVO.` Conforme al artículo 38 de la presente Ley, las entidades responsables de investigar la posible comisión de faltas administrativas graves deberán evaluar el riesgo inherente a sus correspondientes funciones para efectos de establecer las unidades especializadas en los temas y las materias que se requieran.
