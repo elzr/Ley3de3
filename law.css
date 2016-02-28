@@ -37,7 +37,7 @@ body {
 #law strong {
   font-variant: small-caps;
   font-size: 140%; }
-#law em {
+#law span.tema {
   font-weight: bold;
   font-style: normal;
   color: #DF1259; }
