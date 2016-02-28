@@ -1,4 +1,5 @@
-<ley nombre="LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS"> 
+<root>
+<ley nombre="Ley General de Responsabilidades Administrativas"> 
 	<titulo numero="1">
 		<capitulo numero="0" nombre="Disposiciones generales">
 			<articulo numero="1">
@@ -6,6 +7,7 @@
 			</articulo>
 			<articulo numero="2">
 				Para los efectos de esta Ley se entenderá por:
+
 				* Constitución: Constitución Política de los Estados Unidos Mexicanos.
 				* Ley: Ley General de Responsabilidades Administrativas.
 				* SNA: Sistema Nacional Anticorrupción.
@@ -23,6 +25,7 @@
 			</articulo>
 			<articulo numero="4">
 				Para la efectiva aplicación de los principios señalados en el artículo 3, se seguirán las siguientes directrices:
+
 				* Los servidores públicos regirán su actuación conforme a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyan a su empleo, cargo, o comisión; en consecuencia, deberán conocer y cumplir con las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
 				* Los servidores públicos, en el ejercicio de sus atribuciones, deberán corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general.
 				* Los servidores públicos deberán cumplir con todas las obligaciones derivadas de su carácter de ciudadanos mexicanos en los términos del artículo 36 de la Constitución.
@@ -37,6 +40,7 @@
 			</articulo>
 			<articulo numero="5">
 				Son sujetos de responsabilidad en los términos de esta ley:
+
 				* Los servidores públicos federales señalados en el primer párrafo del artículo 108 de la Constitución.
 				* Los servidores públicos que forman parte de los órganos que integra el SNA.
 				* Los servidores públicos adscritos a los órganos a los que la Constitución otorga autonomía.
@@ -51,6 +55,7 @@
 			</articulo>
 			<articulo numero="6">
 				En el ámbito de su competencia, son órganos facultados para interpretar y aplicar esta Ley General:
+
 				* El Poder Judicial de la Federación y el Poder Judicial de la Ciudad de México, el Congreso de la Unión, la Asamblea Legislativa de la Ciudad de México, la Administración Pública Federal y la de la Ciudad de México, así como los órganos a los que la Constitución dote de autonomía.
 				* Los órganos que integran el SNA.
 				* En los términos del último párrafo del artículo 108 de la Constitución, los gobiernos locales y municipales, las administraciones públicas locales, las legislaturas locales, los Poderes Judiciales locales, los consejos de la judicatura locales, los ayuntamientos, así como los órganos a los que las constituciones.
@@ -80,6 +85,7 @@
 		<capitulo numero="0" nombre="De las obligaciones del servidor público">
 			<articulo numero="10">
 				Todo servidor público tendrá las siguientes {{obligaciones}}:
+
 				* Cumplir el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio.
 				* Utilizar los recursos públicos de que disponga exclusivamente para los fines a que están afectos y sin comprometerlos para beneficio privado.
 				* Rendir cuentas sobre el ejercicio de las funciones que tenga conferidas y proporcionar la documentación e información que le sea requerida en los términos que establezcan las disposiciones legales correspondientes.
@@ -101,6 +107,7 @@
 			</articulo>
 			<articulo numero="11">
 				El servidor público que deje de desempeñar su empleo, cargo o comisión deberá observar, hasta un año después de haber concluido sus funciones, las obligaciones establecidas en las fracciones VIII, IX, XII, XIII, XV, XVI, XVII y XVIII del artículo 10 de esta Ley. Asimismo:
+
 				* En ningún caso aprovechará su influencia u obtendrá alguna ventaja derivada de la función que desempeñaba.
 				* No usará, en provecho propio o de terceros, la información o documentación a la que haya tenido acceso en su empleo, cargo o comisión y que no sea del dominio público.
 
@@ -138,6 +145,7 @@
 			</articulo>
 			<articulo numero="18">
 				También se considerarán como faltas graves:
+
 				* El ocultamiento de recursos públicos con el fin de obstaculizar su destino legal.
 				* La manipulación o alteración del bien o recurso para modificar el destino que legalmente le correspondía.
 				* La retención, inutilización o destrucción del bien, para afectar a los beneficiarios o destinatarios legales.
@@ -159,6 +167,7 @@
 		<capitulo numero="5" nombre="Del enriquecimiento oculto">
 			<articulo numero="22">
 				Comete enriquecimiento oculto el servidor que en su declaración patrimonial o en su declaración de intereses, omite señalar:
+
 				* Bienes o recursos de los que es poseedor o propietario legal.
 				* Bienes o recursos que utiliza para beneficio propio.
 				* Frutos derivados de bienes o recursos propios o de terceros.
@@ -169,6 +178,7 @@
 		<capitulo numero="6" nombre="De la obstrucción de la justicia administrativa">
 			<articulo numero="23">
 				Incurre en obstrucción de justicia quien:
+
 				* Hace uso de fuerza física, amenazas o intimidación; o de una promesa, un ofrecimiento o una concesión de un beneficio indebido, para inducir a una persona a prestar falso testimonio o a obstaculizar la prestación de testimonio o la aportación de pruebas en procesos en relación con la comisión de actos de corrupción.
 				* Hace uso de fuerza física, amenazas o intimidación para obstaculizar el cumplimiento de las funciones oficiales de un funcionario de la justicia o de los servicios encargados de hacer cumplir la ley, en relación con la comisión de actos de corrupción.
 				* Conoce directamente de un posible acto de corrupción y omite denunciarlo a las autoridades correspondientes.
@@ -211,6 +221,7 @@
 			</articulo>
 			<articulo numero="30">
 				En la determinación de la responsabilidad de las personas morales se valorará si cuentan con una política de integridad. Para los efectos de esta Ley, se considerará una política de integridad aquella que cuenta con los fundamentos esenciales de los siguientes elementos:
+
 				* Un código de conducta debidamente publicado y socializado entre todos los miembros de la organización, que cuente con sistemas y mecanismos de aplicación real.
 				* Sistemas adecuados y eficaces de control, vigilancia y auditoría, que examinen de manera constante y periódica el cumplimiento de los estándares de integridad en toda la organización.
 				* Sistemas adecuados de denuncia, tanto al interior de la organización como hacia las autoridades competentes, así como procesos disciplinarios y consecuencias concretas respecto de quienes actúan de forma contraria a las normas internas o a la legislación mexicana.
@@ -229,6 +240,7 @@
 			</articulo>
 			<articulo numero="32">
 				Para la determinación de las responsabilidades administrativas a que se refiere esta ley, se seguirán los siguientes procedimientos:
+
 				* Investigación.
 				* Juicio ante el tribunal de justicia administrativa que resulte competente.
 			</articulo>
@@ -251,6 +263,7 @@
 			</articulo>
 			<articulo numero="34">
 				Las autoridades competentes podrán tomar conocimiento de las presuntas infracciones que cometan las personas sujetas a esta Ley, entre otros, a través de los siguientes medios:
+
 				* Denuncia remitida por medio del sistema electrónico de captación de denuncias creado y administrado por el SNA.
 				* Denuncia remitida a través del módulo de captación de denuncias de COMPRANET.
 				* Denuncia de particulares.
@@ -270,6 +283,7 @@
 			</articulo>
 			<articulo numero="36">
 				Con el objeto de promover la denuncia, las leyes federales y locales deberán establecer:
+
 				* Un sistema de recompensas para la denuncia de casos relevantes.
 				* Mecanismos eficaces para la protección de denunciantes.
 				* Mecanismos eficaces para la protección de testigos.
@@ -284,6 +298,7 @@
 			</articulo>
 			<articulo numero="37">
 				Serán competentes para investigar la posible comisión de faltas administrativas graves las siguientes autoridades:
+
 				* La Auditoría Superior de la Federación, la Secretaría del Ejecutivo Federal que ejerza la función de control interno de la Administración Pública Federal, así como sus homólogos en las Entidades Federativas.
 				* Los órganos que ejerzan la función de control interno en aquellos órganos a los que la Constitución o las constituciones de los Estados otorgan autonomía.
 				* Los órganos que ejerzan la función de control interno de los entes públicos federales.
@@ -307,6 +322,7 @@
 				</articulo>
 				<articulo numero="40">
 					Una vez recibida la denuncia, las autoridades competentes procederán a su análisis a fin de dictar un acuerdo que:
+
 					* Ordene el inicio de la investigación.
 					* Prevenga por única ocasión al denunciante, cuando en su escrito de denuncia se omitan los requisitos previstos en esta Ley para que la aclare o complete dentro de un plazo no mayor a quince días, mismo que la autoridad investigadora podrá ampliar por un término igual. Desahogada la prevención, dentro de los quince días siguientes, se deberá dictar el acuerdo que corresponda. Transcurrido el plazo sin que se desahogue la prevención o sin que se cumplan los requisitos señalados en esta Ley para el escrito de denuncia, se tendrá por no presentada la denuncia, salvo que advierta que existe una base razonable para continuar con la investigación.
 					* Deseche la denuncia por ser notoriamente improcedente. El acuerdo de desechamiento deberá notificarse al denunciante dentro de los quince días siguientes a aquel en que haya vencido el plazo para el desahogo de la prevención, sin perjuicio de que el denunciante pueda presentar nuevamente su denuncia.
@@ -314,6 +330,7 @@
 				</articulo>
 				<articulo numero="41">
 					La autoridad investigadora desechará la denuncia por notoriamente improcedente cuando:
+
 					* Los hechos denunciados no sean materia de esta Ley.
 					* Los hechos y conductas denunciadas hayan sido materia de una resolución previa en los términos de esta Ley, excepto en los casos de información falsa o incumplimiento de condiciones previstas en la propia resolución.
 				</articulo>
@@ -321,15 +338,19 @@
 			<seccion numero="2" nombre="Del desahogo de la investigación">
 				<articulo numero="42">
 					Cuando se haya ordenado el inicio de la investigación por advertir la posible comisión de faltas administrativas graves, las autoridades investigadoras procederán inmediatamente a la preclasificación de los hechos, para dar prioridad a aquellas denuncias en las que puedan presentarse:
+
 					* Violaciones graves a los derechos humanos.
 					* Afectación a la integridad o libertad física de las personas.
 					* Posibles redes de corrupción, y/o
 					* Actos en los que sea factible o sencilla la desaparición de las pruebas, o los presuntos responsables.
+
 					La preclasificación es un mecanismo para asignar prioridad a casos con las características antes mencionadas, pero no prejuzga ni califica los hechos materia de la investigación.
+
 					La preclasificación se hará también con el objetivo de determinar aquellos casos que deban ser investigados por las Unidades Especializadas.
 				</articulo>
 				<articulo numero="43">
 					Las autoridades encargadas de investigar la posible comisión de faltas administrativas graves serán responsables de la oportunidad en la investigación, la exhaustividad, la integralidad de los datos y documentos y el resguardo del expediente en su conjunto. Por lo tanto quedarán sujetas a las siguientes obligaciones:
+
 					* Realizar la investigación de manera inmediata, eficiente, exhaustiva, profesional e imparcial; libre de estereotipos y discriminación alguna. Será calificada como Obstrucción de la Justicia Administrativa, en los términos de esta Ley, la dilación negligente o la inactividad injustificada en la investigación.
 					* La investigación deberá explorar todas las líneas de investigación posibles que permitan allegarse de datos para el esclarecimiento del hecho que la ley señala como falta administrativa grave, así como la identificación de quien o quienes lo cometieron o participaron en su comisión.
 					* Allegarse de todos los elementos que requieran para conocer la verdad material de un hecho o hechos denunciados.
@@ -357,38 +378,39 @@
 				</articulo>
 				<articulo numero="47">
 					Las autoridades encargadas de la investigación, por conducto de su titular, podrán ordenar la práctica de visitas de verificación, las cuales se sujetarán a las reglas siguientes:
+
 					* La autoridad encargada de la investigación emitirá la orden de visita, la que contendrá el objeto, alcance y duración a los que deberá limitarse la diligencia; el nombre del visitado; la ubicación del domicilio o domicilios a visitar; el nombre o nombres del personal autorizado que la practicará conjunta o separadamente, así como el apercibimiento de que de no permitir el acceso, obstaculizar el desahogo de la diligencia o negarse a proporcionar la información o documentos solicitados, se aplicarán las medidas de apremio que establezca la ley.
 					* La autoridad encargada de la investigación realizará las visitas de verificación a fin de obtener datos y documentos que se relacionen con la investigación. La práctica de las visitas no podrá exceder de dos meses, que podrá prorrogarse hasta por otro periodo igual, en caso de que así lo justifique la investigación.
 					* Las visitas se practicarán en días y horas hábiles únicamente por el personal autorizado para su desahogo, previa identificación y exhibición de la orden de visita respectiva a la persona que se encuentre en el domicilio al momento de la celebración de la visita de verificación.
 					* La autoridad investigadora podrá habilitar días y horas inhábiles para iniciar o continuar una visita iniciada en días y horas hábiles, en cuyo caso el oficio por el que se haya ordenado la visita expresará la autorización correspondiente.
 					* El visitado, sus funcionarios, representantes legales o los encargados de las instalaciones o establecimientos de personas morales investigadas estarán obligados a permitir la práctica de dicha diligencia otorgando las facilidades al personal autorizado por la autoridad encargada de la investigación quienes estarán facultados para:
-						* Acceder a cualquier oficina, local, terreno, medio de transporte, computadora, aparato electrónico, dispositivo de almacenamiento, archiveros o cualquier otro medio que pudiera contener evidencia de la realización de los actos o hechos materia de la visita.
-						* Verificar los libros, documentos, papeles, archivos o información, cualquiera que sea su soporte material, relativos a la actividad económica del visitado.
-						* Hacer u obtener copias o extractos, en cualquier formato, de dichos libros, documentos, papeles, archivos o información almacenada o generada por medios electrónicos.
-						* Asegurar todas los libros, documentos y demás medios del visitado durante el tiempo y en la medida en que sea necesaria para la práctica de la visita de verificación.
-						* Solicitar a cualquier funcionario, representante o miembro del personal del visitado, explicaciones sobre hechos, información o documentos relacionados con el objeto y la finalidad de la visita de verificación y asentar constancia de sus respuestas.
-						La información que la autoridad encargada de la investigación obtenga de las visitas de verificación sólo podrá ser utilizada para los efectos de esta Ley.
-						Para el cumplimiento eficaz de la visita de verificación, la autoridad investigadora podrá autorizar que los servidores públicos que lleven a cabo la visita de verificación puedan solicitar el auxilio inmediato de la fuerza pública.
-						El personal autorizado por la autoridad investigadora para llevar a cabo las visitas de verificación, durante el desarrollo de las diligencias, podrá tomar fotografías o video filmaciones o reproducir por cualquier medio papeles, libros, documentos, archivos e información generada por cualquier tecnología o soporte material y que tengan relación con la materia del procedimiento. Las fotografías que se tomen, los videos que se filmen y cualquier otro elemento de información recabado en términos de este artículo, podrán ser utilizados por la autoridad encargada de la investigación como elementos con pleno valor probatorio.
-						Al precintar y asegurar oficinas, locales, libros, documentos y demás medios del visitado, los servidores públicos que practiquen la diligencia podrán sellarlos y marcarlos, así como ordenar que se mantengan en depósito a cargo del visitado o de la persona con quien se entienda la diligencia, previo inventario que al efecto se realice.
-						Cuando un documento u objeto asegurado conforme al párrafo anterior resulte indispensable para el desarrollo de las actividades del visitado, se permitirá el uso o extracción del mismo, previa reproducción de la información que contenga por parte de los servidores públicos autorizados.
-						En las visitas de verificación se procurará, en el caso de personas morales investigadas, no afectar la capacidad de producción, distribución y comercialización de bienes y servicios, a efecto de evitar daños al visitado o al consumidor.
-						Si el visitado, sus funcionarios o los encargados de los establecimientos visitados, no permitieran el acceso al personal autorizado para practicar visitas de verificación, o no proporcionaran la información y documentos solicitados o si de cualquier manera hubiera oposición a la realización de la visita de verificación, dicha circunstancia se hará constar en el acta respectiva y se considerará como la falta administrativa grave de obstrucción de la justicia administrativa, en los términos de esta Ley y sin perjuicio de la aplicación de las medidas de apremio que se estimen pertinentes y de la responsabilidad penal en que pudieran incurrir.
+					  * Acceder a cualquier oficina, local, terreno, medio de transporte, computadora, aparato electrónico, dispositivo de almacenamiento, archiveros o cualquier otro medio que pudiera contener evidencia de la realización de los actos o hechos materia de la visita.
+					  * Verificar los libros, documentos, papeles, archivos o información, cualquiera que sea su soporte material, relativos a la actividad económica del visitado.
+					  * Hacer u obtener copias o extractos, en cualquier formato, de dichos libros, documentos, papeles, archivos o información almacenada o generada por medios electrónicos.
+					  * Asegurar todas los libros, documentos y demás medios del visitado durante el tiempo y en la medida en que sea necesaria para la práctica de la visita de verificación.
+					  * Solicitar a cualquier funcionario, representante o miembro del personal del visitado, explicaciones sobre hechos, información o documentos relacionados con el objeto y la finalidad de la visita de verificación y asentar constancia de sus respuestas.
+					     * La información que la autoridad encargada de la investigación obtenga de las visitas de verificación sólo podrá ser utilizada para los efectos de esta Ley.
+					     * Para el cumplimiento eficaz de la visita de verificación, la autoridad investigadora podrá autorizar que los servidores públicos que lleven a cabo la visita de verificación puedan solicitar el auxilio inmediato de la fuerza pública.
+					     * El personal autorizado por la autoridad investigadora para llevar a cabo las visitas de verificación, durante el desarrollo de las diligencias, podrá tomar fotografías o video filmaciones o reproducir por cualquier medio papeles, libros, documentos, archivos e información generada por cualquier tecnología o soporte material y que tengan relación con la materia del procedimiento. Las fotografías que se tomen, los videos que se filmen y cualquier otro elemento de información recabado en términos de este artículo, podrán ser utilizados por la autoridad encargada de la investigación como elementos con pleno valor probatorio.
+					     * Al precintar y asegurar oficinas, locales, libros, documentos y demás medios del visitado, los servidores públicos que practiquen la diligencia podrán sellarlos y marcarlos, así como ordenar que se mantengan en depósito a cargo del visitado o de la persona con quien se entienda la diligencia, previo inventario que al efecto se realice.
+					     * Cuando un documento u objeto asegurado conforme al párrafo anterior resulte indispensable para el desarrollo de las actividades del visitado, se permitirá el uso o extracción del mismo, previa reproducción de la información que contenga por parte de los servidores públicos autorizados.
+					     * En las visitas de verificación se procurará, en el caso de personas morales investigadas, no afectar la capacidad de producción, distribución y comercialización de bienes y servicios, a efecto de evitar daños al visitado o al consumidor.
+					     * Si el visitado, sus funcionarios o los encargados de los establecimientos visitados, no permitieran el acceso al personal autorizado para practicar visitas de verificación, o no proporcionaran la información y documentos solicitados o si de cualquier manera hubiera oposición a la realización de la visita de verificación, dicha circunstancia se hará constar en el acta respectiva y se considerará como la falta administrativa grave de obstrucción de la justicia administrativa, en los términos de esta Ley y sin perjuicio de la aplicación de las medidas de apremio que se estimen pertinentes y de la responsabilidad penal en que pudieran incurrir.
 					* El visitado tendrá derecho de hacer observaciones a los servidores públicos autorizados durante la práctica de la diligencia, mismas que se harán constar en el acta. Asimismo, podrá ofrecer pruebas en relación a los hechos contenidos en ella, o bien, hacer uso por escrito de tal derecho dentro del término de cinco días siguientes a la fecha en que se hubiere levantado.
 					* De toda visita se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por el personal autorizado. El acta se levantará por el personal autorizado en presencia de dos testigos propuestos por la persona con la que se hubiese entendido la diligencia, o designados por los servidores públicos autorizados que la practicaron si aquella se hubiese negado a proponerlos, haciendo constar esta circunstancia. Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberá levantar un acta circunstanciada. En este caso, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante el acta, en términos del párrafo anterior. En las actas se hará constar:
-						* Nombre, denominación o razón social del visitado.
-						* Hora, día, mes y año en que se inicie y concluya la diligencia.
-						* Calle, número exterior e interior, colonia, población, entidad federativa y código postal en donde se encuentre ubicado el lugar en el que se practique la visita; y en caso de no ser posible, asentar los datos que identifiquen el lugar donde se realiza la diligencia.
-						* Número y fecha del oficio que ordene la visita de verificación.
-						* Objeto de la visita.
-						* Nombre y datos de identificación del personal autorizado para el
-						* de la visita de verificación.
-						* Nombre y cargo o empleo de la persona con quien se entendió la diligencia.
-						* Nombre y domicilio de las personas que fungieron como testigos.
-						* Mención de la oportunidad que se da al visitado para ejercer el derecho de hacer observaciones a los servidores públicos durante la práctica de la diligencia, inserción de las declaraciones que en su caso efectúe y de las pruebas que ofrezca.
-						* Narración circunstanciada de los hechos relativos a la diligencia y la mención de si se ha reproducido documentos o información, tomado fotografías, realizado video filmaciones o recabado otros elementos de prueba durante el desarrollo de la diligencia. En su caso, dichos elementos se deberán anexar al acta correspondiente.
-						* Mención de la oportunidad que se da al visitado para formular aclaraciones u observaciones al acta levantada dentro del término de cinco días, contados a partir de su levantamiento.
-						* Nombre y firma de quienes intervienen en la diligencia y, en su caso, la indicación de que el visitado se negó a firmar el acta.
+					  * Nombre, denominación o razón social del visitado.
+					  * Hora, día, mes y año en que se inicie y concluya la diligencia.
+					  * Calle, número exterior e interior, colonia, población, entidad federativa y código postal en donde se encuentre ubicado el lugar en el que se practique la visita; y en caso de no ser posible, asentar los datos que identifiquen el lugar donde se realiza la diligencia.
+					  * Número y fecha del oficio que ordene la visita de verificación.
+					  * Objeto de la visita.
+					  * Nombre y datos de identificación del personal autorizado para el
+					  * de la visita de verificación.
+					  * Nombre y cargo o empleo de la persona con quien se entendió la diligencia.
+					  * Nombre y domicilio de las personas que fungieron como testigos.
+					  * Mención de la oportunidad que se da al visitado para ejercer el derecho de hacer observaciones a los servidores públicos durante la práctica de la diligencia, inserción de las declaraciones que en su caso efectúe y de las pruebas que ofrezca.
+					  * Narración circunstanciada de los hechos relativos a la diligencia y la mención de si se ha reproducido documentos o información, tomado fotografías, realizado video filmaciones o recabado otros elementos de prueba durante el desarrollo de la diligencia. En su caso, dichos elementos se deberán anexar al acta correspondiente.
+					  * Mención de la oportunidad que se da al visitado para formular aclaraciones u observaciones al acta levantada dentro del término de cinco días, contados a partir de su levantamiento.
+					  * Nombre y firma de quienes intervienen en la diligencia y, en su caso, la indicación de que el visitado se negó a firmar el acta.
 					* Antes de que se realice la visita de verificación o durante su práctica, la autoridad investigadora podrá solicitar a las dependencias y entidades de la Administración Pública Federal, auxilio en cuestiones técnicas o específicas para el desahogo de la visita.
 
 					Del acta levantada se dejará copia a la persona con quien se entendió la diligencia, aun cuando se hubiese negado a firmarla, circunstancia que no afectará su validez.
@@ -458,25 +480,31 @@
 		</capitulo>
 		<capitulo numero="3" nombre="Del procedimiento ante el tribunal">
 			<seccion numero="1" nombre="De la recepción del expediente y del emplazamiento">
-				`Artículo 59.` Una vez recibido el expediente en el que la autoridad investigadora determinó la probable responsabilidad del sujeto investigado, y antes de proceder a la radicación, el tribunal de justicia administrativa al que le fue turnado el expediente deberá revisar:
-				* Si a su juicio se encuentra debidamente integrado.
-				* Si considera que en la etapa de investigación se realizaron todas las diligencias necesarias para encontrar la verdad material de los hechos.
-				* Si el acto o los actos están debidamente calificados.
-				* Si a su juicio, de los hechos y documentos que tiene a su disposición, se puede inferir la probable responsabilidad de otros servidores públicos.
+				<articulo numero="59">
+					Una vez recibido el expediente en el que la autoridad investigadora determinó la probable responsabilidad del sujeto investigado, y antes de proceder a la radicación, el tribunal de justicia administrativa al que le fue turnado el expediente deberá revisar:
 
-				En caso de que el Tribunal que recibió el expediente encuentre que no está debidamente integrado; que no se realizaron todas las diligencias pertinentes para encontrar la verdad material de los hechos; que el acto o los actos no están debidamente calificados, o que se puede inferir, a su juicio, la probable responsabilidad de otros servidores públicos, podrá regresarlo a la autoridad encargada de la investigación con instrucciones y directrices sobre lo que se requiere para su debida radicación. El Tribunal podrá establecer un plazo para el cumplimiento de tal requerimiento.
+					* Si a su juicio se encuentra debidamente integrado.
+					* Si considera que en la etapa de investigación se realizaron todas las diligencias necesarias para encontrar la verdad material de los hechos.
+					* Si el acto o los actos están debidamente calificados.
+					* Si a su juicio, de los hechos y documentos que tiene a su disposición, se puede inferir la probable responsabilidad de otros servidores públicos.
 
-				Cuando la autoridad encargada de la investigación se niegue a acatar el requerimiento al que se refiere el párrafo anterior; cuando no atienda al plazo señalado por el Tribunal, o cuando acate el requerimiento de manera deficiente, el Tribunal podrá iniciar un proceso de responsabilidades administrativas en contra de quienes pudieran resultar responsables. Asimismo, dará cuenta de tal situación al Comité Coordinador del Sistema Nacional Anticorrupción para que esta conducta quede registrada y documentada y se tomen las medidas pertinentes.
+					En caso de que el Tribunal que recibió el expediente encuentre que no está debidamente integrado; que no se realizaron todas las diligencias pertinentes para encontrar la verdad material de los hechos; que el acto o los actos no están debidamente calificados, o que se puede inferir, a su juicio, la probable responsabilidad de otros servidores públicos, podrá regresarlo a la autoridad encargada de la investigación con instrucciones y directrices sobre lo que se requiere para su debida radicación. El Tribunal podrá establecer un plazo para el cumplimiento de tal requerimiento.
 
-				En caso de que el expediente esté debidamente integrado el tribunal de justicia administrativa que corresponda procederá al emplazamiento de los probables responsables.
+					Cuando la autoridad encargada de la investigación se niegue a acatar el requerimiento al que se refiere el párrafo anterior; cuando no atienda al plazo señalado por el Tribunal, o cuando acate el requerimiento de manera deficiente, el Tribunal podrá iniciar un proceso de responsabilidades administrativas en contra de quienes pudieran resultar responsables. Asimismo, dará cuenta de tal situación al Comité Coordinador del Sistema Nacional Anticorrupción para que esta conducta quede registrada y documentada y se tomen las medidas pertinentes.
 
-				`Artículo 60.` Son partes en el procedimiento ante el tribunal de justicia administrativa que resulte competente el o los sujetos en contra de quienes se determinó la probable responsabilidad y la autoridad que estuvo a cargo de la etapa de investigación.
-
-				`Artículo 61.` Quien haya presentado la denuncia que dio inicio a la investigación podrá ser coadyuvante de la autoridad investigadora en el procedimiento seguido ante el tribunal de justicia administrativa que resulte competente.
+					En caso de que el expediente esté debidamente integrado el tribunal de justicia administrativa que corresponda procederá al emplazamiento de los probables responsables.
+				</articulo>
+				<articulo numero="60">
+					Son partes en el procedimiento ante el tribunal de justicia administrativa que resulte competente el o los sujetos en contra de quienes se determinó la probable responsabilidad y la autoridad que estuvo a cargo de la etapa de investigación.
+				</articulo>
+				<articulo numero="61">
+					Quien haya presentado la denuncia que dio inicio a la investigación podrá ser coadyuvante de la autoridad investigadora en el procedimiento seguido ante el tribunal de justicia administrativa que resulte competente.
+				</articulo>
 			</seccion>
 			<seccion numero="2" nombre="Del desahogo del procedimiento">
 				<articulo numero="62">
 					El procedimiento seguido ante el tribunal de justicia administrativa que resulte competente se tramitará conforme a lo siguiente:
+
 					* Una vez emplazado, el probable responsable tendrá acceso al expediente y se le citará a una audiencia notificándosele que debe comparecer personalmente a rendir su declaración en torno a los hechos que se le imputan, y que puedan ser causa de responsabilidad administrativa grave, en los términos de esta Ley. En la notificación deberá expresarse el lugar, día y hora en que tendrá verificativo la audiencia; la autoridad ante la cual se desarrollará ésta; los actos u omisiones que se le imputen al servidor público, y el derecho de éste a comparecer asistido de un defensor. La notificación a que se refiere esta fracción se practicará de manera personal al presunto responsable. Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de treinta días hábiles.
 					* Concluida la audiencia, se concederá al presunto responsable un plazo de treinta días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen. El emplazado podrá solicitar la ampliación de este plazo por otros treinta días, cuando exista causa justificada. El emplazado deberá referirse a cada uno de los hechos expresados en el expediente en el que se determinó la probable responsabilidad.
 					* Con las manifestaciones del probable responsable se dará vista a la autoridad que se encargó de la investigación, para que en un plazo máximo de quince días hábiles se pronuncie respecto de los argumentos y pruebas ofrecidas.
@@ -489,6 +517,7 @@
 				</articulo>
 				<articulo numero="63">
 					Para los efectos de esta Ley, habrá acumulación de procesos cuando: I. Se trate de concurso de faltas administrativas graves.
+
 					* Se trate de concurso de faltas administrativas graves.
 					* Se investiguen faltas administrativas graves o no graves conexas.
 					* En aquellos casos seguidos contra los autores o partícipes de una misma falta administrativa grave; o
@@ -500,6 +529,7 @@
 				</articulo>
 				<articulo numero="64">
 					Cuando dos o más procesos sean susceptibles de acumulación, y se sigan ante diversos tribunales administrativos, se procederá conforme a lo siguiente:
+
 					* Será competente el que conozca de la falta administrativa grave cuya punibilidad sea mayor. Si los actos señalados implican similar punibilidad, la competencia será del que conozca de los actos procesales más antiguos.
 					* Si las faltas administrativas graves comenzaron en la misma fecha, el que previno primero. Para efectos de este artículo, se entenderá que previno quien dictó la primera resolución del procedimiento.
 				</articulo>
@@ -513,6 +543,7 @@
 				</articulo>
 				<articulo numero="67">
 					La Resolución contendrá:
+
 					* La mención del órgano jurisdiccional que la emite y el nombre del Magistrado o Juez.
 					* La fecha en que se dicta.
 					* Identificación del acusado.
@@ -545,6 +576,7 @@
 			<seccion numero="2" nombre="De las medidas cautelares">
 				<articulo numero="71">
 					El Tribunal que instruye el procedimiento seguido en forma de juicio podrá imponer las siguientes medidas cautelares:
+
 					* La exhibición de una garantía económica.
 					* El embargo de bienes.
 					* La inmovilización de cuentas y demás valores que se encuentren dentro del sistema financiero.
@@ -558,6 +590,7 @@
 			<seccion numero="3" nombre="De las medidas de apremio">
 				<articulo numero="72">
 					Para el cumplimiento de las atribuciones que les confiere la Ley, la Secretaría, el contralor interno o los titulares de las áreas de auditoría, de quejas y de responsabilidades, podrán emplear los siguientes medios de apremio:
+
 					* Multa de hasta veinte veces la Unidad de Cuenta vigente en el Ciudad de México.
 					* Auxilio de la fuerza pública.
 
@@ -573,6 +606,7 @@
 			</articulo>
 			<articulo numero="74">
 				Las sanciones por faltas administrativas establecidas en esta Ley consistirán en:
+
 				* Amonestación.
 				* Sanciones económicas.
 				* Resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos federales, locales o municipales.
@@ -591,6 +625,7 @@
 		<capitulo numero="2" nombre="De los criterios para la determinación de sanciones">
 			<articulo numero="76">
 				Para la imposición de las sanciones administrativas se tomarán en cuenta los elementos:
+
 				* La gravedad de la responsabilidad en que se incurra.
 				* El grado y forma de participación en los hechos.
 				* El tipo de funciones del servidor público y el impacto del acto en la sociedad.
@@ -610,6 +645,7 @@
 			</articulo>
 			<articulo numero="78">
 				La aplicación del beneficio a que hace referencia el artículo anterior, tendrá por efecto una reducción de entre el cincuenta y el setenta por ciento del monto de las sanciones que se impongan al responsable. Para su procedencia será necesario que adicionalmente se cumplan los siguientes requisitos:
+
 				* Que no se haya notificado a ninguno de los presuntos infractores el inicio del procedimiento administrativo sancionador.
 				* Que la persona que pretende acogerse a este beneficio, sea entre los sujetos involucrados en la infracción, la primera en aportar los elementos de convicción suficientes y que a juicio de las autoridades competentes permitan comprobar la existencia de la infracción.
 				* Que la persona que pretende acogerse al beneficio coopere en forma plena y continua con la autoridad competente que lleve a cabo la investigación y, en su caso, con la que substancie el procedimiento administrativo sancionador conducente.
@@ -718,3 +754,4 @@
 		</articulo>
 	</titulo>
 </ley>
+</root>
