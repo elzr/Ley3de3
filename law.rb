@@ -8,7 +8,7 @@ header = File.open("header.html").read
 
 articulos = ''
 law.css("articulo").each do |a|
-	text = a.text.gsub(/^\t+/,'')
+	text = a.text.gsub(/^\t+/,'').gsub(/{{([^}]+)}}/,'<span class="tema">$1</span>')
 	articulos += '<div class="articulo"><span class="nombre">'+
 			"Artículo #{a.attributes['numero']}."+
 		'</span>'+

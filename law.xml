@@ -3,18 +3,22 @@
 	<titulo numero="1">
 		<capitulo numero="0" nombre="Disposiciones generales">
 			<articulo numero="1">
-				Esta Ley General es de orden público y tiene por objeto distribuir competencias entre los órdenes de gobierno para establecer las responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves, así como los procedimientos para su aplicación.
+				Esta Ley General es de orden público
+				y tiene por objeto {distribuir} {{competencias}} 
+				entre los órdenes de gobierno 
+				para {establecer} las {{responsabilidades administrativas}} de los servidores públicos,
+				sus {{obligaciones}}, las {{sanciones}} aplicables por los actos u omisiones en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves, así como los {{procedimientos}} para su aplicación.
 			</articulo>
 			<articulo numero="2">
 				Para los efectos de esta Ley se entenderá por:
 
-				* Constitución: Constitución Política de los Estados Unidos Mexicanos.
-				* Ley: Ley General de Responsabilidades Administrativas.
-				* SNA: Sistema Nacional Anticorrupción.
-				* SAT: Servicio de Administración Tributaria.
-				* CNBV: Comisión Nacional Bancaria y de Valores.
-				* El Tribunal: Tribunal de Justicia Administrativa.
-				* RNSPS: Registro Nacional de Servidores Públicos Sancionados.
+				* **Constitución:*( Constitución Política de los Estados Unidos Mexicanos.
+				* **Ley:** Ley General de Responsabilidades Administrativas.
+				* **SNA:** Sistema Nacional Anticorrupción.
+				* **SAT:** Servicio de Administración Tributaria.
+				* **CNBV:** Comisión Nacional Bancaria y de Valores.
+				* **El Tribunal:** Tribunal de Justicia Administrativa.
+				* **RNSPS:** Registro Nacional de Servidores Públicos Sancionados.
 			</articulo>
 			<articulo numero="3">
 				Todo servidor público está obligado a respetar los principios constitucionales de legalidad, honradez, imparcialidad, lealtad, eficiencia, eficacia, profesionalismo y objetividad en el desempeño de sus empleo, cargo o comisión.

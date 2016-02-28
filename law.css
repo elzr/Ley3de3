@@ -1,0 +1,56 @@
+body {
+  font-family: Helvetica;
+  background: #fff; }
+
+#law div {
+  margin: 20px 10px;
+  line-height: 1.3em; }
+#law ul {
+  list-style-type: none;
+  display: inline;
+  vertical-align: middle;
+  margin: 0;
+  padding: 0; }
+#law ul:hover li {
+  background: #efefef; }
+#law ul:hover li:hover {
+  background: #ddd; }
+#law ul:hover li:hover ul:hover li:hover {
+  background: #bbb; }
+#law li {
+  display: inline-block;
+  padding: 0 4px;
+  padding-bottom: 2px;
+  margin: 0;
+  margin-bottom: 3px;
+  background: transparent;
+  border: 1px solid #777;
+  border-width: 0 0 1px 1px;
+  background: #eee; }
+#law ul li:first-child {
+  border-left: 0;
+  border-bottom-left-radius: 10px;
+  padding-left: 8px; }
+#law ul li:last-child {
+  border-bottom-right-radius: 10px;
+  padding-right: 8px; }
+#law strong {
+  font-variant: small-caps;
+  font-size: 140%; }
+#law em {
+  font-weight: bold;
+  font-style: normal;
+  color: #DF1259; }
+#law i {
+  font-weight: bold;
+  font-style: normal;
+  color: #DF1259; }
+#law low {
+  color: #999; }
+#law article {
+  border-width: 4px 0 4px 0;
+  border-color: black;
+  border-style: solid;
+  padding: 10px 0; }
+
+/*# sourceMappingURL=law.css.map */

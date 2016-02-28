@@ -1,0 +1,21 @@
+body {font-family:Helvetica; background:#fff}
+
+#law {
+	div {margin:20px 10px; line-height:1.3em}
+	ul {list-style-type:none; display:inline; vertical-align:middle; margin:0; padding:0}
+	ul:hover li {background:#efefef}
+	ul:hover li:hover {background:#ddd}
+	ul:hover li:hover ul:hover li:hover {background:#bbb}
+	li {display:inline-block; padding:0 4px; padding-bottom:2px; margin:0; margin-bottom:3px; background:transparent; border:1px solid #777; border-width:0 0 1px 1px; background:#eee}
+
+
+	ul li:first-child {border-left:0; border-bottom-left-radius:10px; padding-left:8px;}
+	ul li:last-child {border-bottom-right-radius:10px; padding-right:8px}
+
+	strong {font-variant:small-caps; font-size:140%}
+	em {font-weight:bold; font-style:normal;  color:#DF1259}
+	i {font-weight:bold; font-style:normal;  color:#DF1259}
+	low {color:#999}
+
+	article {border-width:4px 0 4px 0; border-color:black; border-style:solid; padding:10px 0}
+}

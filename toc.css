@@ -1,0 +1,50 @@
+#toc h1 {
+  font-size: 1.6em;
+  background: black;
+  color: white;
+  padding: 10px; }
+#toc ul {
+  list-style-type: none;
+  counter-reset: li;
+  margin: 0;
+  padding: 0;
+  padding-left: 2em; }
+#toc b {
+  font-size: 1.1em; }
+#toc li {
+  position: relative; }
+#toc li div {
+  background: #E70052;
+  color: #fff;
+  padding: 6px 10px;
+  display: iblock; }
+#toc li li div {
+  background: #007ED3; }
+#toc li li li div {
+  background: #4EB23F; }
+#toc ul > li:before {
+  content: counter(li);
+  /* Use the counter as content */
+  counter-increment: li;
+  /* Increment the counter by 1 */
+  /* Position and style the number */
+  position: absolute;
+  top: 0;
+  left: -2em;
+  box-sizing: border-box;
+  width: 2em;
+ /* Some space between the number and the content in browsers that support
+	 generated content but not positioning it (Camino 2 is one example) */
+  margin-right: 8px;
+  padding: 7px;
+  color: #fff;
+  background: #A1003B;
+  font-weight: bold;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  text-align: center; }
+#toc ul > li li:before {
+  background: #005994; }
+#toc ul > li li li:before {
+  background: #388536; }
+
+/*# sourceMappingURL=toc.css.map */
