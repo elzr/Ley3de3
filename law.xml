@@ -2,252 +2,293 @@
 <ley nombre="Ley General de Responsabilidades Administrativas"> 
 	<titulo numero="1">
 		<capitulo numero="0" nombre="Disposiciones generales">
-			<articulo numero="1">
-				Esta Ley General es de orden público
-				y tiene por objeto {distribuir} {{competencias}} 
-				entre los órdenes de gobierno 
-				para {establecer} las {{responsabilidades administrativas}} de los servidores públicos,
-				sus {{obligaciones}}, las {{sanciones}} aplicables por los actos u omisiones en que estos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves, así como los {{procedimientos}} para su aplicación.
-			</articulo>
-			<articulo numero="2">
-				Para los efectos de esta Ley se entenderá por:
+			<seccion numero="0">
+				<articulo numero="1">
+					Esta Ley General es de orden público
+					y tiene por objeto {distribuir} {{competencias}} 
+					entre los órdenes de gobierno 
+					para {establecer} 
+					[[[
+						las {{responsabilidades administrativas}} de los servidores públicos,|||
+						sus {{obligaciones}},|||
+						las {{sanciones}} aplicables
+							[[por los [actos u| omisiones] en que estos incurran||
+							y las que correspondan a los particulares vinculados con faltas administrativas graves,]] ||| 
+							así como los {{procedimientos}} para su aplicación.]]]
+				</articulo>
+				<articulo numero="2">
+					Para los efectos de esta Ley {se entenderá} por:
 
-				* **Constitución:*( Constitución Política de los Estados Unidos Mexicanos.
-				* **Ley:** Ley General de Responsabilidades Administrativas.
-				* **SNA:** Sistema Nacional Anticorrupción.
-				* **SAT:** Servicio de Administración Tributaria.
-				* **CNBV:** Comisión Nacional Bancaria y de Valores.
-				* **El Tribunal:** Tribunal de Justicia Administrativa.
-				* **RNSPS:** Registro Nacional de Servidores Públicos Sancionados.
-			</articulo>
-			<articulo numero="3">
-				Todo servidor público está obligado a respetar los principios constitucionales de legalidad, honradez, imparcialidad, lealtad, eficiencia, eficacia, profesionalismo y objetividad en el desempeño de sus empleo, cargo o comisión.
+					* **Constitución:** Constitución Política de los Estados Unidos Mexicanos.
+					* **Ley:** Ley General de Responsabilidades Administrativas.
+					* **SNA:** Sistema Nacional Anticorrupción.
+					* **SAT:** Servicio de Administración Tributaria.
+					* **CNBV:** Comisión Nacional Bancaria y de Valores.
+					* **El Tribunal:** Tribunal de Justicia Administrativa.
+					* **RNSPS:** Registro Nacional de Servidores Públicos Sancionados.
+				</articulo>
+				<articulo numero="3">
+					Todo servidor público está {obligado a respetar} los {{principios constitucionales}} de [legalidad,| honradez,| imparcialidad,| lealtad,| eficiencia,| eficacia,| profesionalismo y| objetividad] en el desempeño de sus [empleo,| cargo o| comisión.]
 
-				Asimismo, todos los sujetos obligados por esta ley deben mantener los más altos estándares de ética y responsabilidad a fin de resguardar la función pública que le es inherente al Estado.
+					Asimismo, todos los sujetos obligados por esta ley {deben mantener} los más altos {{estándares de ética y responsabilidad}} a fin de resguardar la función pública que le es inherente al Estado.
 
-				En los Estados Unidos Mexicanos, todas las personas tienen la obligación de evitar y denunciar la comisión de cualquier falta administrativa a la que se refiere esta ley, aportando los elementos de prueba a su disposición.
-			</articulo>
-			<articulo numero="4">
-				Para la efectiva aplicación de los principios señalados en el artículo 3, se seguirán las siguientes directrices:
+					En los Estados Unidos Mexicanos, todas las personas tienen {la obligación de evitar y denunciar} la comisión de cualquier falta administrativa a la que se refiere esta ley, aportando los elementos de prueba a su disposición.
+				</articulo>
+				<articulo numero="4">
+					Para la efectiva aplicación de los principios señalados en el [artículo 3](/#/articulo/3), {se seguirán} las siguientes {{directrices}}:
 
-				* Los servidores públicos regirán su actuación conforme a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyan a su empleo, cargo, o comisión; en consecuencia, deberán conocer y cumplir con las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
-				* Los servidores públicos, en el ejercicio de sus atribuciones, deberán corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general.
-				* Los servidores públicos deberán cumplir con todas las obligaciones derivadas de su carácter de ciudadanos mexicanos en los términos del artículo 36 de la Constitución.
-				* En el ámbito de sus competencias y atribuciones, los servidores públicos deberán promover, respetar, proteger y garantizar los derechos humanos establecidos en la Constitución.
-				* Los servidores públicos no deberán usar su empleo, cargo o comisión para obtener beneficios privados para sí o para terceros a ellos relacionados.
-				* Los servidores públicos deberán ejercer sus atribuciones de manera objetiva e imparcial a fin de no brindar ventajas o tratos preferentes a ninguna persona u organización.
-				* Los servidores públicos evitarán y darán cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones.
-				* Los servidores públicos actúan conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades.
-				* Los servidores públicos deberán cuidar el patrimonio del Estado mexicano y los recursos públicos de que dispongan serán manejados de manera responsable, eficiente y transparente, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación.
-				* Los servidores públicos no podrán realizar cualquier trato o promesa privada que comprometa al Estado mexicano.
-				* En el manejo de su patrimonio, los servidores públicos deberán conducirse conforme a las prácticas comerciales y financieras que promueve el Estado mexicano y evitarán comportamientos que las eludan.
-			</articulo>
-			<articulo numero="5">
-				Son sujetos de responsabilidad en los términos de esta ley:
+					* Los servidores públicos {regirán} su actuación conforme a las {{facultades}} que las [leyes,| reglamentos y| demás disposiciones jurídicas] atribuyan a su [empleo,| cargo, o| comisión;] en consecuencia, deberán [conocer y| cumplir] con las disposiciones que regulan el ejercicio de sus [funciones,| facultades y| atribuciones].
+					* Los servidores públicos, en el ejercicio de sus atribuciones, 
+					[[ {deberán corresponder} a la {{confianza}} que la sociedad les ha conferido;||
+					{tendrán} una {{vocación}} absoluta de servicio a la sociedad,||
+					y {preservarán} el interés superior de las {{necesidades colectivas}} por encima de [intereses particulares,| personales o| ajenos al interés general].]]
+					* Los servidores públicos {deberán cumplir} con todas las {{obligaciones}} derivadas de su carácter de {{ciudadanos mexicanos}} en los términos del [artículo 36 de la Constitución](http://info4.juridicas.unam.mx/ijure/fed/9/37.htm).
+					* En el ámbito de sus competencias y atribuciones, los servidores públicos {deberán} [{promover},| {respetar},| {proteger} y| {garantizar}] los {{derechos humanos}} establecidos en la Constitución.
+					* Los servidores públicos {no deberán usar} su [empleo,| cargo o| comisión] para obtener {{beneficios privados}} [para si o| para terceros a ellos relacionados.]
+					* Los servidores públicos {deberán ejercer} sus atribuciones de manera [objetiva e| imparcial] a fin de no brindar [{{ventajas}} o| {{tratos preferentes}}] a ninguna [persona u| organización].
+					* Los servidores públicos [{evitarán} y| {darán cuenta}] de los {{intereses}} que puedan entrar en conflicto con el desempeño [responsable y| objetivo] de sus [facultades y| obligaciones].
+					* Los servidores públicos {actúan} conforme a una {{cultura de servicio}} orientada al logro de resultados, {procurando} en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades.
+					* Los servidores públicos {deberán cuidar} el {{patrimonio del Estado mexicano}} y los recursos públicos de que dispongan serán manejados de manera [responsable,| eficiente y| transparente,] {eliminando} cualquier [ostentación y| discrecionalidad] indebida en su aplicación.
+					* Los servidores públicos {no podrán realizar} cualquier [trato o| promesa privada] que {{comprometa}} al Estado mexicano.
+					* En el manejo de su patrimonio, los servidores públicos {deberán conducirse} conforme a las {{prácticas [comerciales y| financieras]}} que promueve el Estado mexicano y {evitarán} comportamientos que las eludan.
+				</articulo>
+				<articulo numero="5">
+					{Son} {{sujetos de responsabilidad}} en los términos de esta ley:
 
-				* Los servidores públicos federales señalados en el primer párrafo del artículo 108 de la Constitución.
-				* Los servidores públicos que forman parte de los órganos que integra el SNA.
-				* Los servidores públicos adscritos a los órganos a los que la Constitución otorga autonomía.
-				* En los términos del último párrafo del artículo 108 constitucional, los servidores públicos de los gobiernos locales y municipales, así como cualquier órgano o institución que dependa de estos.
-				* Las Empresas Productivas del Estado.
-				* Las asociaciones, sindicatos u organizaciones de naturaleza análoga que tengan a su cargo la asignación, administración y ejecución de recursos públicos. 
-				* Los candidatos, partidos políticos, asociaciones y personas electas para el desempeño de un cargo público y que manejen recursos públicos.
-				* Las personas que forman parte de los equipos de transición federal, local y municipal, quienes serán considerados como servidores públicos a los efectos de esta ley.
-				* Los particulares que incurran en conductas descritas como graves por esta Ley General.
+					* Los servidores públicos {{federales}} señalados en el primer párrafo del [artículo 108 de la Constitución](http://info4.juridicas.unam.mx/ijure/fed/9/109.htm).
+					* Los servidores públicos que forman parte de {{los órganos que integra el SNA}}.
+					* Los servidores públicos {{adscritos}} a los órganos a los que la Constitución otorga autonomía.
+					* En los términos del último párrafo del [artículo 108 constitucional](http://info4.juridicas.unam.mx/ijure/fed/9/109.htm), los servidores públicos de los {{gobiernos locales y municipales}}, así como cualquier órgano o institución que dependa de estos.
+					* Las Empresas Productivas del Estado.
+					* Las {{[asociaciones,| sindicatos u| organizaciones]}} de naturaleza análoga que tengan a su cargo la [asignación,| administración y| ejecución] de recursos públicos. 
+					* Los [{{candidatos}},| {{partidos políticos}},| asociaciones y| personas electas para el desempeño de un cargo público y que manejen recursos públicos].
+					* Las personas que forman parte de los {{equipos de transición}} [federal,| local y| municipal,] quienes serán considerados como servidores públicos a los efectos de esta ley.
+					* Los {{particulares}} que incurran en conductas descritas como graves por esta Ley General.
 
-				Las disposiciones de esta Ley se aplicarán a los servidores públicos señalados en el presente artículo aun cuando se encuentren en periodo de licencia o permiso según corresponda a la naturaleza de su empleo, cargo, o comisión.
-			</articulo>
-			<articulo numero="6">
-				En el ámbito de su competencia, son órganos facultados para interpretar y aplicar esta Ley General:
+					Las disposiciones de esta Ley {se aplicarán} a los servidores públicos señalados en el presente artículo {aun} cuando se encuentren en periodo de [{{licencia}} o| {{permiso}}] según corresponda a la naturaleza de su [empleo,| cargo, o| comisión].
+				</articulo>
+				<articulo numero="6">
+					En el ámbito de su competencia, {son} {{órganos facultados para [interpretar y| aplicar]}} esta Ley General:
 
-				* El Poder Judicial de la Federación y el Poder Judicial de la Ciudad de México, el Congreso de la Unión, la Asamblea Legislativa de la Ciudad de México, la Administración Pública Federal y la de la Ciudad de México, así como los órganos a los que la Constitución dote de autonomía.
-				* Los órganos que integran el SNA.
-				* En los términos del último párrafo del artículo 108 de la Constitución, los gobiernos locales y municipales, las administraciones públicas locales, las legislaturas locales, los Poderes Judiciales locales, los consejos de la judicatura locales, los ayuntamientos, así como los órganos a los que las constituciones.
-				* Las empresas productivas del Estado.
-				* Cualquier otra forma de organización pública.
-			</articulo>
-			<articulo numero="7">
-				De acuerdo con los principios y directrices establecidos en esta ley, las leyes de responsabilidades administrativas de los servidores públicos, tanto la federal como las locales, deberán establecer los procedimientos de responsabilidades correspondientes para vigilar el debido cumplimiento de las obligaciones establecidas en este ordenamiento y sancionar efectivamente su incumplimiento.
+					* [El Poder Judicial de la Federación y el Poder Judicial de la Ciudad de México,| el Congreso de la Unión,| la Asamblea Legislativa de la Ciudad de México,| la Administración Pública Federal y la de la Ciudad de México,| así como los órganos a los que la Constitución dote de autonomía.]
+					* Los órganos que integran el SNA.
+					* En los términos del último párrafo del artículo 108 de la Constitución, [los gobiernos locales y municipales,| las administraciones públicas locales,| las legislaturas locales,| los Poderes Judiciales locales,| los consejos de la judicatura locales,| los ayuntamientos,| así como los órganos a los que las constituciones.]
+					* Las empresas productivas del Estado.
+					* Cualquier otra forma de organización pública.
+				</articulo>
+				<articulo numero="7">
+					De acuerdo con los [principios y| directrices] establecidos en esta ley, {{las leyes de responsabilidades administrativas de los servidores públicos}}, [tanto la federal| como las locales], {deberán establecer} los procedimientos de responsabilidades correspondientes para [{vigilar} el debido cumplimiento de las obligaciones establecidas en este ordenamiento y| {sancionar} efectivamente su incumplimiento.]
 
-				Las faltas administrativas graves serán investigadas y sustanciadas por la Auditoría Superior de la Federación y los órganos que llevan a cabo la función de control interno, así como por sus homólogos en las entidades federativas, según corresponda, y serán resueltas por el tribunal de justicia administrativa que resulte competente.
+					Las {{faltas administrativas graves}} [[[ {serán investigadas y sustanciadas} por [[la Auditoría Superior de la Federación y|| los órganos que llevan a cabo la función de control interno,|| así como por sus homólogos en las entidades federativas, según corresponda,]]||| y {serán resueltas} por el tribunal de justicia administrativa que resulte competente.]]]
 
-				Las demás faltas y sanciones administrativas serán conocidas y resueltas por los órganos que llevan a cabo la función de control interno según lo que establezcan la ley federal y las de las entidades federativas, atendiendo a los sujetos, directrices, principios, obligaciones, procedimientos y sanciones que establece esta ley.
-			</articulo>
-			<articulo numero="8">
-				En el caso del Poder Judicial de la Federación, la investigación y substanciación serán competencia del Consejo de la Judicatura Federal, sin perjuicio de las facultades propias de la Auditoría Superior de la Federación y sus homólogos a nivel local.
+					Las {{[demás faltas y| sanciones administrativas]}} [[ [{serán conocidas} y| {resueltas}] por los órganos que llevan a cabo la función de control interno según lo que establezcan la [ley federal y| las de las entidades federativas],|| {atendiendo} a los [sujetos,| directrices,| principios,| obligaciones,| procedimientos y| sanciones] que establece esta ley.]]
+				</articulo>
+				<articulo numero="8">
+					{{En el caso del Poder Judicial de la Federación}}, [la investigación y| substanciación] {serán competencia} del Consejo de la Judicatura Federal, sin perjuicio de las facultades propias de [la Auditoría Superior de la Federación y| sus homólogos a nivel local.]
 
-				En las demás etapas del procedimiento el Consejo de la Judicatura Federal respetará los principios y las disposiciones establecidos en esta Ley General.
-			</articulo>
-			<articulo numero="9">
-				Cuando los actos u omisiones de los servidores públicos, materia de las quejas o denuncias, queden comprendidos en más de uno de los casos sujetos a sanción y previstos en el artículo 109 constitucional, distintos a los procedimientos de responsabilidad administrativa, los procedimientos respectivos se desarrollarán en forma autónoma según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades a que alude el artículo 6 turnar las quejas o denuncias a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+					En las demás etapas del procedimiento el Consejo de la Judicatura Federal {respetará} [los principios y| las disposiciones] establecidos en esta Ley General.
+				</articulo>
+				<articulo numero="9">
+					Cuando [los actos u| omisiones] de los servidores públicos, materia de [las quejas o| denuncias], queden comprendidos en más de uno de los casos sujetos a sanción y previstos en [el artículo 109 constitucional](http://info4.juridicas.unam.mx/ijure/fed/9/111.htm), {{distintos a los procedimientos de responsabilidad administrativa}}, los procedimientos respectivos {se desarrollarán} en forma autónoma según su naturaleza y por la vía procesal que corresponda, {debiendo} las autoridades a que alude el [artículo 6](/#/articulo/6) {turnar} las [quejas o| denuncias] a quien deba conocer de ellas. {No podrán imponerse} dos veces por una sola conducta sanciones de la misma naturaleza.
 
-				Tratándose de responsabilidades administrativas, cuando en la etapa de investigación se detecte que existen elementos que pueden ser constitutivos de una falta administrativa grave, las conductas no graves relacionadas se integrarán en un mismo expediente del que conocerá el tribunal de justicia administrativa que resulte competente.
-			</articulo>
-			</capitulo>
+					Tratándose de responsabilidades administrativas, cuando en la etapa de investigación se detecte que existen elementos que pueden ser constitutivos de una falta administrativa grave, las conductas no graves relacionadas {se integrarán} en un mismo expediente del que {conocerá} el tribunal de justicia administrativa que resulte competente.
+				</articulo>
+			</seccion>
+		</capitulo>
 	</titulo>
-	<titulo numero"2">
+	<titulo numero="2">
 		<capitulo numero="0" nombre="De las obligaciones del servidor público">
-			<articulo numero="10">
-				Todo servidor público tendrá las siguientes {{obligaciones}}:
+			<seccion numero="0">
+				<articulo numero="10">
+					Todo servidor público tendrá las siguientes {{obligaciones}}:
 
-				* Cumplir el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio.
-				* Utilizar los recursos públicos de que disponga exclusivamente para los fines a que están afectos y sin comprometerlos para beneficio privado.
-				* Rendir cuentas sobre el ejercicio de las funciones que tenga conferidas y proporcionar la documentación e información que le sea requerida en los términos que establezcan las disposiciones legales correspondientes.
-				* Custodiar y cuidar la documentación e información que por razón de sus funciones tenga bajo su alcance o responsabilidad, e impedir o evitar su uso, sustracción, destrucción, ocultamiento o inutilización indebidos.
-				* Abstenerse de ejercer un empleo, cargo o comisión, por haber concluido el período para el cual se le designó, por haber sido cesado, inhabilitado o por cualquier otra causa legal que se lo impida.
-				* Abstenerse de disponer de los recursos humanos a su cargo para realizar actividades ajenas a su función.
-				* Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución de autoridad competente para ocupar un empleo, cargo o comisión en el servicio público.
-				* Excusarse de intervenir, por motivo de su encargo, en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios.
-				* Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese, rescisión del contrato o sanción de cualquier servidor público cuando tenga interés personal, familiar o de negocios en el caso o pueda derivar alguna ventaja o beneficio para él o para las personas cercanas a él entre las cuales deberá considerarse su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, parientes civiles, terceros con los que tenga relaciones profesionales, laborales o de negocios, o socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
-				* Abstenerse de aceptar regalos, compensaciones o dádivas que tengan como propósito ganar su favor o voluntad, o afectar la objetividad e imparcialidad con las que deben ejercer sus funciones.
-				* Supervisar que los servidores públicos sujetos a su dirección cumplan con las obligaciones de este artículo.
-				* Denunciar por cualquier medio previsto en esta ley ante las autoridades competentes cualquier acto u omisión que pueda configurar alguna de las conductas sancionadas en esta ley.
-				* Colaborar en los procedimientos judiciales o administrativos de los que sea parte.
-				* Presentar con oportunidad y veracidad las declaraciones de situación patrimonial, de intereses y de impuestos en los términos establecidos por las leyes. Las declaraciones a que se refiere esta fracción estarán disponibles al público, con excepción de los datos que sean estrictamente personales, así calificados por la ley de la materia. La obligación de presentar las declaraciones de intereses y fiscal también aplicará a las personas físicas a que se refieren las fracciones VII y VIII del artículo 5o de esta Ley.
-				* Abstenerse de realizar actuaciones que en ejercicio de sus funciones entren en conflicto con los intereses previstos en las leyes o declarados por el servidor público, tratándose de contratación, obra, servicio, o cualquiera de naturaleza análoga.
-				* Responder veraz y oportunamente a las solicitudes de información que realicen los órganos que investiguen responsabilidades administrativas o los tribunales de justicia administrativa, así como atender y responder a las recomendaciones y solicitudes de información que formulen los órganos integrantes del Sistema Nacional Anticorrupción.
-				* Atender con diligencia las instrucciones, requerimientos o resoluciones que reciba de las autoridades encargadas de investigar o sancionar conductas administrativas.
-				* Abstenerse de desempeñar un empleo, cargo o comisión público o privado respecto del cual exista incompatibilidad o inelegibilidad.
-			</articulo>
-			<articulo numero="11">
-				El servidor público que deje de desempeñar su empleo, cargo o comisión deberá observar, hasta un año después de haber concluido sus funciones, las obligaciones establecidas en las fracciones VIII, IX, XII, XIII, XV, XVI, XVII y XVIII del artículo 10 de esta Ley. Asimismo:
+					* [[{Cumplir} el servicio que le sea encomendado| y {abstenerse} de cualquier [acto u| omisión] que cause [la suspensión o| deficiencia] de dicho servicio.]]
+					* {Utilizar} los recursos públicos de que disponga [exclusivamente para los fines a que están afectos| y sin comprometerlos para beneficio privado.]
+					* [[{Rendir cuentas} sobre el ejercicio de las funciones que tenga conferidas| y {proporcionar} [la documentación e| información] que le sea requerida en los términos que establezcan las disposiciones legales correspondientes.]]
+					* [[{Custodiar} y {cuidar} [la documentación e| información] que por razón de sus funciones tenga [bajo su alcance o| responsabilidad],|| e [{impedir} |o {evitar}] su [uso,| sustracción,| destrucción,| ocultamiento o| inutilización indebidos].]]
+					* {Abstenerse de ejercer} un [empleo,| cargo o| comisión], [por haber concluido el período para el cual se le designó,| por haber sido cesado,| inhabilitado| o por cualquier otra causa legal que se lo impida.]
+					* {Abstenerse de disponer} de los recursos humanos a su cargo para realizar actividades ajenas a su función.
+					* {Abstenerse de autorizar} la [selección,| contratación,| nombramiento o| designación] de quien se encuentre inhabilitado por resolución de autoridad competente para ocupar un [empleo,| cargo o| comisión] en el servicio público.
+					* {Excusarse de intervenir}, por motivo de su encargo, en cualquier forma en la [atención,| tramitación| o resolución de asuntos] en los que tenga [interés personal,| familiar o| de negocios].
+					* {Abstenerse de [intervenir o| participar]} indebidamente en la [selección,| nombramiento,| designación,| contratación,| promoción,| suspensión,| remoción,| cese,| rescisión del contrato o| sanción] de cualquier servidor público [[[cuando tenga [interés personal,| familiar o| de negocios] en el caso||| o pueda derivar alguna [ventaja o| beneficio] [para él o| para las personas cercanas a él] entre las cuales deberá considerarse [[su cónyuge o|| parientes [consanguíneos| o por afinidad hasta el cuarto grado],|| parientes civiles,|| terceros con los que tenga relaciones [profesionales,| laborales o| de negocios],|| o [socios o| sociedades] de las que [el servidor público o| las personas antes referidas] [formen o| hayan formado parte].]] ]]]
+					* {Abstenerse de aceptar} [regalos,| compensaciones o| dádivas] que tengan como propósito [[ganar [su favor o| voluntad],|| o afectar la [objetividad e| imparcialidad] con las que deben ejercer sus funciones.]]
+					* {Supervisar} que los servidores públicos sujetos a su dirección cumplan con las obligaciones de este artículo.
+					* {Denunciar} por cualquier medio previsto en esta ley ante las autoridades competentes cualquier [acto u| omisión] que pueda configurar alguna de las conductas sancionadas en esta ley.
+					* {Colaborar} en los procedimientos [judiciales o| administrativos] de los que sea parte.
+					* {Presentar} con [oportunidad y| veracidad] las {{declaraciones}} [de situación patrimonial,| de intereses y| de impuestos] en los términos establecidos por las leyes. Las declaraciones a que se refiere esta fracción estarán disponibles al público, con excepción de los datos que sean estrictamente personales, así calificados por la ley de la materia. La obligación de presentar las declaraciones de [intereses y| fiscal] también aplicará a las personas físicas a que se refieren las fracciones [VII y| VIII] del artículo 5o de esta Ley.
+					* {Abstenerse} de realizar actuaciones que en ejercicio de sus funciones entren en conflicto con los intereses [previstos en las leyes o| declarados por el servidor público], tratándose de [contratación,| obra,| servicio, o| cualquiera de naturaleza análoga].
+					* {Responder} [veraz y| oportunamente] a las solicitudes de información que realicen [los órganos que investiguen responsabilidades administrativas o| los tribunales de justicia administrativa], así como [atender y| responder] a las [recomendaciones y| solicitudes de información] que formulen los órganos integrantes del Sistema Nacional Anticorrupción.
+					* {Atender} con diligencia las [instrucciones,| requerimientos o| resoluciones] que reciba de las autoridades encargadas de [investigar o| sancionar] conductas administrativas.
+					* {Abstenerse} de desempeñar un [empleo,| cargo o| comisión] [público o| privado] respecto del cual exista [incompatibilidad o| inelegibilidad].
+				</articulo>
+				<articulo numero="11">
+					El servidor público que {{deje de desempeñar}} su [empleo,| cargo o| comisión] {deberá observar}, hasta un año después de haber concluido sus funciones, las obligaciones establecidas en las fracciones [VIII,| IX,| XII,| XIII,| XV,| XVI,| XVII y| XVIII] del [artículo 10](/#/articulo/10) de esta Ley. Asimismo:
 
-				* En ningún caso aprovechará su influencia u obtendrá alguna ventaja derivada de la función que desempeñaba.
-				* No usará, en provecho propio o de terceros, la información o documentación a la que haya tenido acceso en su empleo, cargo o comisión y que no sea del dominio público.
+					* {En ningún caso aprovechará} su influencia u obtendrá alguna ventaja derivada de la función que desempeñaba.
+					* {No usará}, [en provecho propio o| de terceros], [la información o| documentación] [[a la que haya tenido acceso en su [empleo,| cargo o| comisión] y|| que no sea del dominio público.]]
 
-				Serán sancionados por falta administrativa grave con la separación del cargo que ostentan, y la inhabilitación que en su caso corresponda, aquellos servidores públicos que se hayan desempeñado en cargos de dirección o como consejeros en el Instituto Nacional Electoral o como magistrados del Tribunal Electoral del Poder Judicial de la Federación, y que durante dos años no se abstengan de participar en cualquier encargo público de la administración encabezada por quien haya ganado la elección que ellos organizaron o calificaron.
+					{Serán sancionados} por falta administrativa grave con la separación del cargo que ostentan, y la inhabilitación que en su caso corresponda, [[aquellos servidores públicos que se hayan desempeñado en [cargos de dirección o| como consejeros en el Instituto Nacional Electoral o| como magistrados del Tribunal Electoral del Poder Judicial de la Federación], y|| que durante dos años {no se abstengan} de participar en cualquier encargo público de la administración encabezada por quien haya ganado la elección que ellos organizaron o calificaron.]]
 
-				Para la investigación y substanciación de las conductas a las que se refiere este precepto, se seguirán los procedimientos a que se refiere esta ley.
-			</articulo>
+					Para la [investigación y| substanciación] de las conductas a las que se refiere este precepto, {se seguirán} los procedimientos a que se refiere esta ley.
+				</articulo>
+			</seccion>
 		</capitulo>
 	</titulo>
 	<titulo numero="3" nombre="De las faltas administrativas graves constitutivas de corrupción">
-		<articulo numero="12">
-			Serán considerados faltas administrativas graves constitutivas de corrupción: el soborno; la malversación, peculado y desvío de fondos públicos; el tráfico de influencias; el abuso de funciones; el enriquecimiento oculto; la obstrucción de la justicia; la colusión; la utilización ilegal de información falsa o confidencial; el nepotismo, y la conspiración para cometer un acto corrupto.
+		<capitulo numero="0">
+			<seccion numero="0">
+				<articulo numero="12">
+					{Serán considerados} {{faltas administrativas graves constitutivas de corrupción}}: [[el soborno;|| [la malversación,| peculado y| desvío de fondos públicos];|| el tráfico de influencias;|| el abuso de funciones;|| el enriquecimiento oculto;|| la obstrucción de la justicia;|| la colusión;|| la utilización ilegal de información [falsa o| confidencial];|| el nepotismo,|| y la conspiración para cometer un acto corrupto.]]
 
-			Las legislaturas, tanto federales como locales, deberán considerar en el establecimiento de faltas administrativas graves constitutivas de corrupción las conductas señaladas en el párrafo anterior y establecerán las bases, órganos, procedimientos y sanciones que resulten necesarios para la efectiva disuasión y sanción de tales conductas.
-		</articulo>
+					Las legislaturas, [tanto federales| como locales], deberán considerar en el establecimiento de faltas administrativas graves constitutivas de corrupción las conductas señaladas en el párrafo anterior y establecerán [las bases,| órganos,| procedimientos y| sanciones] que resulten necesarios para la efectiva [disuasión y| sanción] de tales conductas.
+				</articulo>
+			</seccion>
+		</capitulo>
 		<capitulo numero="1" nombre="Del soborno">
-			<articulo numero="13">
-				Incurre en soborno el servidor público que exige, solicita, acepta, recibe o pretende recibir un beneficio adicional a sus contraprestaciones legales a cambio de hacer, o dejar de hacer, aquello que son sus funciones, o que quien otorga el beneficio extra legal, cree que son sus funciones.
+			<seccion numero="0">
+				<articulo numero="13">
+					{Incurre} en soborno el {{servidor público}} que [exige,| solicita,| acepta,| recibe o| pretende] recibir un beneficio adicional a sus contraprestaciones legales a cambio de [hacer, o| dejar de hacer], [aquello que son sus funciones, o| que quien otorga el beneficio extra legal, cree que son sus funciones.]
 
-				Incurre también en soborno quien ofrece, entrega o pone a disposición de un servidor público un beneficio adicional a las contraprestaciones legales de éste para hacer o dejar de hacer algo que forma parte de sus funciones. También será soborno cuando se pueda probar que quien otorga el beneficio indebido es engañado respecto de las funciones del servidor público o de las características del trámite, proceso o servicio.
-			</articulo>
-			<articulo numero="14">
-				Incurre en soborno el candidato, miembro del equipo de campaña o dirigente partidario que exige, solicita, acepta, recibe o pretende recibir donativos en numerario o en especie, para él o para su campaña, a cambio de otorgar una ventaja indebida en el futuro a quien entrega u ofrece el soborno, o para la empresa, institución o grupo a la que este último pertenece.
-			</articulo>
-			<articulo numero="15">
-				Incurrirán también en soborno los sujetos que en alguna transacción comercial internacional, por sí o a través de un tercero, prometan, ofrezcan o entreguen dinero o cualquier otra dádiva indebida a un servidor público extranjero o a un tercero, a cambio de que dicho servidor público realice o se abstenga de realizar un acto relacionado con sus funciones o con las de otro servidor público extranjero, con la finalidad de obtener o mantener un beneficio o ventaja, con independencia de la aceptación o del resultado obtenido.
-			</articulo>
+					Incurre también en soborno quien [ofrece,| entrega o| pone a disposición] de un servidor público un beneficio adicional a las contraprestaciones legales de éste para [hacer o| dejar de hacer] algo que forma parte de sus funciones. También será soborno cuando se pueda probar que quien otorga el beneficio indebido es engañado respecto de [[# las funciones del servidor público o| de las características del [trámite,| proceso| o servicio] ]].
+				</articulo>
+				<articulo numero="14">
+					{Incurre} en soborno el {{[candidato,| miembro del equipo de campaña| o dirigente partidario]}} que [exige,| solicita,| acepta,| recibe| o pretende recibir] donativos [en numerario| o en especie], [para él| o para su campaña], a cambio de otorgar una ventaja indebida en el futuro [a quien entrega| u ofrece el soborno,| o para la empresa, institución o grupo a la que este último pertenece.]
+				</articulo>
+				<articulo numero="15">
+					Incurrirán también en soborno los sujetos que en alguna transacción comercial internacional, por sí o a través de un tercero, prometan, ofrezcan o entreguen dinero o cualquier otra dádiva indebida a un servidor público extranjero o a un tercero, a cambio de que dicho servidor público realice o se abstenga de realizar un acto relacionado con sus funciones o con las de otro servidor público extranjero, con la finalidad de obtener o mantener un beneficio o ventaja, con independencia de la aceptación o del resultado obtenido.
+				</articulo>
+			</seccion>
 		</capitulo>
 		<capitulo numero="2" nombre="Del peculado y el desvío">
-			<articulo numero="16">
-				Incurre en peculado quien hurta recursos del erario, confiados a su administración, utilización o resguardo.
-			</articulo>
-			<articulo numero="17">
-				Incurre en desvío quien destina recursos públicos a un uso diferente al que le es asignado por las normas a fin de generar un beneficio privado.
-			</articulo>
-			<articulo numero="18">
-				También se considerarán como faltas graves:
+			<seccion numero="0">
+				<articulo numero="16">
+					Incurre en peculado quien hurta recursos del erario, confiados a su administración, utilización o resguardo.
+				</articulo>
+				<articulo numero="17">
+					Incurre en desvío quien destina recursos públicos a un uso diferente al que le es asignado por las normas a fin de generar un beneficio privado.
+				</articulo>
+				<articulo numero="18">
+					También se considerarán como faltas graves:
 
-				* El ocultamiento de recursos públicos con el fin de obstaculizar su destino legal.
-				* La manipulación o alteración del bien o recurso para modificar el destino que legalmente le correspondía.
-				* La retención, inutilización o destrucción del bien, para afectar a los beneficiarios o destinatarios legales.
-			</articulo>
+					* El ocultamiento de recursos públicos con el fin de obstaculizar su destino legal.
+					* La manipulación o alteración del bien o recurso para modificar el destino que legalmente le correspondía.
+					* La retención, inutilización o destrucción del bien, para afectar a los beneficiarios o destinatarios legales.
+				</articulo>
+			</seccino>
 		</capitulo>
 		<capitulo numero="3" nombre="Del tráfico de influencias">
-			<articulo numero="19">
-				Incurre en tráfico de influencias quien solicita o acepta, en forma directa o indirecta, un beneficio indebido que redunde en su provecho, con el fin de abusar de su influencia real o supuesta, para obtener de una autoridad del Estado un beneficio indebido para un tercero.
-			</articulo>
-			<articulo numero="20">
-				Incurre en tráfico de influencias quien promete, ofrece o concede a un servidor público, en forma directa o indirecta, un beneficio indebido, con el fin de que ese servidor público abuse de su influencia real o supuesta, para obtener de una autoridad del Estado un beneficio indebido que redunde en provecho del instigador original del acto o de cualquier otra persona.
-			</articulo>
+			<seccion numero="0">
+				<articulo numero="19">
+					Incurre en tráfico de influencias quien solicita o acepta, en forma directa o indirecta, un beneficio indebido que redunde en su provecho, con el fin de abusar de su influencia real o supuesta, para obtener de una autoridad del Estado un beneficio indebido para un tercero.
+				</articulo>
+				<articulo numero="20">
+					Incurre en tráfico de influencias quien promete, ofrece o concede a un servidor público, en forma directa o indirecta, un beneficio indebido, con el fin de que ese servidor público abuse de su influencia real o supuesta, para obtener de una autoridad del Estado un beneficio indebido que redunde en provecho del instigador original del acto o de cualquier otra persona.
+				</articulo>
+			</seccion>
 		</capitulo>
 		<capitulo numero="4" nombre="Del abuso de funciones">
-			<articulo numero="21">
-				Incurre en abuso de funciones quien realiza u omite un acto en exceso o defecto de sus funciones legales, con el fin de obtener un beneficio indebido para sí mismo o para otra persona o de afectar a otra persona, grupo o institución.
-			</articulo>
+			<seccion numero="0">
+				<articulo numero="21">
+					Incurre en abuso de funciones quien realiza u omite un acto en exceso o defecto de sus funciones legales, con el fin de obtener un beneficio indebido para sí mismo o para otra persona o de afectar a otra persona, grupo o institución.
+				</articulo>
+			</seccion>
 		</capitulo>
 		<capitulo numero="5" nombre="Del enriquecimiento oculto">
-			<articulo numero="22">
-				Comete enriquecimiento oculto el servidor que en su declaración patrimonial o en su declaración de intereses, omite señalar:
+			<seccion numero="0">
+				<articulo numero="22">
+					Comete enriquecimiento oculto el servidor que en su declaración patrimonial o en su declaración de intereses, omite señalar:
 
-				* Bienes o recursos de los que es poseedor o propietario legal.
-				* Bienes o recursos que utiliza para beneficio propio.
-				* Frutos derivados de bienes o recursos propios o de terceros.
-				* Bienes que posee directamente o a través de terceros, sin convertirse en propietario legal.
-				También comete enriquecimiento oculto el servidor público que posee un patrimonio notoriamente superior a los ingresos legales declarados.
-			</articulo>
+					* Bienes o recursos de los que es poseedor o propietario legal.
+					* Bienes o recursos que utiliza para beneficio propio.
+					* Frutos derivados de bienes o recursos propios o de terceros.
+					* Bienes que posee directamente o a través de terceros, sin convertirse en propietario legal.
+					También comete enriquecimiento oculto el servidor público que posee un patrimonio notoriamente superior a los ingresos legales declarados.
+				</articulo>
+			</seccion>
 		</capitulo>
 		<capitulo numero="6" nombre="De la obstrucción de la justicia administrativa">
-			<articulo numero="23">
-				Incurre en obstrucción de justicia quien:
+			<seccion numero="0">
+				<articulo numero="23">
+					Incurre en obstrucción de justicia quien:
 
-				* Hace uso de fuerza física, amenazas o intimidación; o de una promesa, un ofrecimiento o una concesión de un beneficio indebido, para inducir a una persona a prestar falso testimonio o a obstaculizar la prestación de testimonio o la aportación de pruebas en procesos en relación con la comisión de actos de corrupción.
-				* Hace uso de fuerza física, amenazas o intimidación para obstaculizar el cumplimiento de las funciones oficiales de un funcionario de la justicia o de los servicios encargados de hacer cumplir la ley, en relación con la comisión de actos de corrupción.
-				* Conoce directamente de un posible acto de corrupción y omite denunciarlo a las autoridades correspondientes.
-				* Selecciona, emplea, contrata, o comisiona a una persona física o moral, o servidor público, que se encuentre inhabilitado según el sistema de registros correspondiente.
-				* De cualquier forma evite que se desarrolle el procedimiento sancionador establecido en esta ley; o evite, retrase u obstaculice de cualquier forma el cumplimiento de las sanciones que se determinen.
-				* Presente una denuncia a sabiendas de que los hechos que relata o las pruebas con las que pretende sustentarlos, son falsos.
-				* Revele la identidad de un denunciante anónimo o de un testigo protegido bajo los preceptos establecidos en esta ley.
-			</articulo>
+					* Hace uso de fuerza física, amenazas o intimidación; o de una promesa, un ofrecimiento o una concesión de un beneficio indebido, para inducir a una persona a prestar falso testimonio o a obstaculizar la prestación de testimonio o la aportación de pruebas en procesos en relación con la comisión de actos de corrupción.
+					* Hace uso de fuerza física, amenazas o intimidación para obstaculizar el cumplimiento de las funciones oficiales de un funcionario de la justicia o de los servicios encargados de hacer cumplir la ley, en relación con la comisión de actos de corrupción.
+					* Conoce directamente de un posible acto de corrupción y omite denunciarlo a las autoridades correspondientes.
+					* Selecciona, emplea, contrata, o comisiona a una persona física o moral, o servidor público, que se encuentre inhabilitado según el sistema de registros correspondiente.
+					* De cualquier forma evite que se desarrolle el procedimiento sancionador establecido en esta ley; o evite, retrase u obstaculice de cualquier forma el cumplimiento de las sanciones que se determinen.
+					* Presente una denuncia a sabiendas de que los hechos que relata o las pruebas con las que pretende sustentarlos, son falsos.
+					* Revele la identidad de un denunciante anónimo o de un testigo protegido bajo los preceptos establecidos en esta ley.
+				</articulo>
+			</seccion>
 		</capitulo>
 		<capitulo numero="7" nombre="De la colusión">
-			<articulo numero="24">
-				Incurre en colusión quien acuerde o celebre contratos, convenios, arreglos o combinaciones entre competidores, cuyo objeto o efecto sea afectar la utilización eficiente y eficaz de los recursos públicos del Estado.
+			<seccion numero="0">
+				<articulo numero="24">
+					Incurre en colusión quien acuerde o celebre contratos, convenios, arreglos o combinaciones entre competidores, cuyo objeto o efecto sea afectar la utilización eficiente y eficaz de los recursos públicos del Estado.
 
-				En la investigación de un caso de colusión, los órganos del Sistema Nacional Anticorrupción deberán colaborar con las autoridades responsables en materia de competencia económica.
-			</articulo>
+					En la investigación de un caso de colusión, los órganos del Sistema Nacional Anticorrupción deberán colaborar con las autoridades responsables en materia de competencia económica.
+				</articulo>
+			</seccion>
 		</capitulo>
 		<capitulo numero="8" nombre="De la utilización de información o documentación falsa o confidencial">
-			<articulo numero="25">
-				Incurre en utilización de información o documentación falsa quien la presenta en un trámite o procedimiento, a sabiendas de su inexactitud o falta de veracidad y con el propósito de lograr un beneficio o ventaja.
-			</articulo>
-			<articulo numero="26">
-				Incurre en utilización de información o documentación confidencial quien la utiliza para beneficio privado.
-			</articulo>
+			<seccion numero="0">
+				<articulo numero="25">
+					Incurre en utilización de información o documentación falsa quien la presenta en un trámite o procedimiento, a sabiendas de su inexactitud o falta de veracidad y con el propósito de lograr un beneficio o ventaja.
+				</articulo>
+				<articulo numero="26">
+					Incurre en utilización de información o documentación confidencial quien la utiliza para beneficio privado.
+				</articulo>
+			</seccion>
 		</capitulo>
 		<capitulo numero="9" nombre="Del nepotismo">
-			<articulo numero="27">
-				Incurre en nepotismo el servidor público que ofrece, otorga o promete ventajas indebidas a su cónyuge, concubino o concubina, asociado en convivencia y figuras análogas, así como a miembros de su familia hasta el cuarto grado, al utilizar sus facultades o el poder fáctico que el empleo, cargo o comisión le otorgan.
-			</articulo>
+			<seccion numero="0">
+				<articulo numero="27">
+					Incurre en nepotismo el servidor público que ofrece, otorga o promete ventajas indebidas a su cónyuge, concubino o concubina, asociado en convivencia y figuras análogas, así como a miembros de su familia hasta el cuarto grado, al utilizar sus facultades o el poder fáctico que el empleo, cargo o comisión le otorgan.
+				</articulo>
+			</seccion>
 		</capitulo>
 		<capitulo numero="10" nombre="De la conspiración para realizar un acto de corrupción">
-			<articulo numero="28">
-				Incurre en conspiración para realizar un acto de corrupción quienes utilizan su cargo público, su poder real o supuesto, los recursos públicos o sus funciones, con el fin de obtener un beneficio indebido para sí o para terceros, con independencia de que éste se obtenga.
-			</articulo>
+			<seccion numero="0">
+				<articulo numero="28">
+					Incurre en conspiración para realizar un acto de corrupción quienes utilizan su cargo público, su poder real o supuesto, los recursos públicos o sus funciones, con el fin de obtener un beneficio indebido para sí o para terceros, con independencia de que éste se obtenga.
+				</articulo>
+			</seccion>
 		</capitulo>
 	</titulo>
 	<titulo numero="4">
 		<capitulo numero="0" nombre="De la integridad de las personas morales">
-			<articulo numero="29">
-				Las personas morales serán sancionadas en los términos de esta ley cuando los actos vinculados con faltas administrativas graves constitutivas de corrupción sean realizados por personas físicas que actúen a nombre o representación de la persona moral y pretendan obtener mediante tales conductas beneficios para dicha persona moral.
-			</articulo>
-			<articulo numero="30">
-				En la determinación de la responsabilidad de las personas morales se valorará si cuentan con una política de integridad. Para los efectos de esta Ley, se considerará una política de integridad aquella que cuenta con los fundamentos esenciales de los siguientes elementos:
+			<seccion numero="0">
+				<articulo numero="29">
+					Las personas morales serán sancionadas en los términos de esta ley cuando los actos vinculados con faltas administrativas graves constitutivas de corrupción sean realizados por personas físicas que actúen a nombre o representación de la persona moral y pretendan obtener mediante tales conductas beneficios para dicha persona moral.
+				</articulo>
+				<articulo numero="30">
+					En la determinación de la responsabilidad de las personas morales se valorará si cuentan con una política de integridad. Para los efectos de esta Ley, se considerará una política de integridad aquella que cuenta con los fundamentos esenciales de los siguientes elementos:
 
-				* Un código de conducta debidamente publicado y socializado entre todos los miembros de la organización, que cuente con sistemas y mecanismos de aplicación real.
-				* Sistemas adecuados y eficaces de control, vigilancia y auditoría, que examinen de manera constante y periódica el cumplimiento de los estándares de integridad en toda la organización.
-				* Sistemas adecuados de denuncia, tanto al interior de la organización como hacia las autoridades competentes, así como procesos disciplinarios y consecuencias concretas respecto de quienes actúan de forma contraria a las normas internas o a la legislación mexicana.
-				* Sistemas y procesos adecuados de entrenamiento y capacitación respecto de las medidas de integridad que contiene este artículo.
-				* Políticas de recursos humanos tendientes a evitar la incorporación de personas que puedan generar un riesgo a la integridad de la corporación.
-				* Mecanismos que aseguren en todo momento la transparencia y publicidad de sus intereses.
-				* Un manual de organización y procedimientos que sea claro y completo, en el que se delimiten las funciones y responsabilidades de cada una de sus áreas, y que especifique claramente las distintas cadenas de mando y de liderazgo en toda la estructura.
-			</articulo>
+					* Un código de conducta debidamente publicado y socializado entre todos los miembros de la organización, que cuente con sistemas y mecanismos de aplicación real.
+					* Sistemas adecuados y eficaces de control, vigilancia y auditoría, que examinen de manera constante y periódica el cumplimiento de los estándares de integridad en toda la organización.
+					* Sistemas adecuados de denuncia, tanto al interior de la organización como hacia las autoridades competentes, así como procesos disciplinarios y consecuencias concretas respecto de quienes actúan de forma contraria a las normas internas o a la legislación mexicana.
+					* Sistemas y procesos adecuados de entrenamiento y capacitación respecto de las medidas de integridad que contiene este artículo.
+					* Políticas de recursos humanos tendientes a evitar la incorporación de personas que puedan generar un riesgo a la integridad de la corporación.
+					* Mecanismos que aseguren en todo momento la transparencia y publicidad de sus intereses.
+					* Un manual de organización y procedimientos que sea claro y completo, en el que se delimiten las funciones y responsabilidades de cada una de sus áreas, y que especifique claramente las distintas cadenas de mando y de liderazgo en toda la estructura.
+				</articulo>
+			</seccion>
 		</capitulo>
 	</titulo>
 	<titulo numero="5" nombre="Del procedimiento">
 		<capitulo numero="1" nombre="Disposiciones generales">
-			<articulo numero="31">
-				Determinar la responsabilidad de los servidores públicos que incurran en la comisión de faltas administrativas graves previstas en esta Ley es de interés público.
-				Las autoridades encargadas de desarrollar los procedimientos y etapas los que se refiere este Título se regirán por los principios de debido proceso, objetividad, oportunidad, exhaustividad, integralidad, profesionalismo, eficacia y respeto a los derechos humanos reconocidos por la Constitución y los Tratados Internacionales de los que México sea parte.
-			</articulo>
-			<articulo numero="32">
-				Para la determinación de las responsabilidades administrativas a que se refiere esta ley, se seguirán los siguientes procedimientos:
+			<seccion numero="0">
+				<articulo numero="31">
+					Determinar la responsabilidad de los servidores públicos que incurran en la comisión de faltas administrativas graves previstas en esta Ley es de interés público.
+					Las autoridades encargadas de desarrollar los procedimientos y etapas los que se refiere este Título se regirán por los principios de debido proceso, objetividad, oportunidad, exhaustividad, integralidad, profesionalismo, eficacia y respeto a los derechos humanos reconocidos por la Constitución y los Tratados Internacionales de los que México sea parte.
+				</articulo>
+				<articulo numero="32">
+					Para la determinación de las responsabilidades administrativas a que se refiere esta ley, se seguirán los siguientes procedimientos:
 
-				* Investigación.
-				* Juicio ante el tribunal de justicia administrativa que resulte competente.
-			</articulo>
+					* Investigación.
+					* Juicio ante el tribunal de justicia administrativa que resulte competente.
+				</articulo>
+			</seccion>
 		</capitulo>
 		<capitulo numero="2" nombre="De la investigación">
 			<articulo numero="33">

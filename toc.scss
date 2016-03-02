@@ -1,11 +1,11 @@
-#toc {
-	h1 {font-size:1.6em; background:black; color:white; padding:10px}
+#toc {width:39%; position:fixed;
+	h1 {font-size:1.2em; background:black; color:white; padding:10px; margin:0;}
 	ul {list-style-type:none; counter-reset:li; margin:0; padding:0; padding-left:2em}
 
 	b {font-size:1.1em}
 
 	li {position:relative}
-	li div {background:#E70052; color:#fff; padding:6px 10px; display:iblock;}
+	li div {background:#E70052; color:#fff; padding:6px 10px; display:inline-block;}
 	li li div {background:#007ED3}
 	li li li div {background:#4EB23F}
 
@@ -32,4 +32,19 @@
 
 	ul > li li:before {background:#005994}
 	ul > li li li:before {background:#388536}
+}
+
+#law {
+	h1, h2, h3, h4 {color:white; line-height:1.5em; padding:0;
+		span.numero, span.nombre {display:inline-block; padding:0 10px}
+	}
+
+	h1 {font-size:1.8em}
+	h2 {font-size:1.6em; line-height:1.8em}
+	h3 {font-size:1.4em}
+
+	h1 span.numero {background:#A1003B;}
+		h1 span.nombre {background:#E70052}
+	h2 span.numero {background:#005994}
+		h2 span.nombre {background:#007ED3}
 }

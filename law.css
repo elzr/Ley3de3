@@ -1,56 +1,89 @@
 body {
   font-family: Helvetica;
-  background: #fff; }
-
-#law div {
-  margin: 20px 10px;
-  line-height: 1.3em; }
-#law ul {
-  list-style-type: none;
-  display: inline;
-  vertical-align: middle;
+  background: #fff;
   margin: 0;
   padding: 0; }
-#law ul:hover li {
-  background: #efefef; }
-#law ul:hover li:hover {
-  background: #ddd; }
-#law ul:hover li:hover ul:hover li:hover {
-  background: #bbb; }
-#law li {
-  display: inline-block;
-  padding: 0 4px;
-  padding-bottom: 2px;
-  margin: 0;
-  margin-bottom: 3px;
-  background: transparent;
-  border: 1px solid #777;
-  border-width: 0 0 1px 1px;
-  background: #eee; }
-#law ul li:first-child {
-  border-left: 0;
-  border-bottom-left-radius: 10px;
-  padding-left: 8px; }
-#law ul li:last-child {
-  border-bottom-right-radius: 10px;
-  padding-right: 8px; }
-#law strong {
-  font-variant: small-caps;
-  font-size: 140%; }
-#law span.tema {
-  font-weight: bold;
-  font-style: normal;
-  color: #DF1259; }
-#law i {
-  font-weight: bold;
-  font-style: normal;
-  color: #DF1259; }
-#law low {
-  color: #999; }
-#law article {
-  border-width: 4px 0 4px 0;
-  border-color: black;
-  border-style: solid;
-  padding: 10px 0; }
+
+#law, #toc {
+  height: 100%;
+  overflow: hidden;
+  vertical-align: top;
+  display: inline-block; }
+
+#law {
+  width: 55%;
+  padding-left: 5%;
+  margin-left: 40%; }
+  #law div.p {
+    margin: 10px; }
+  #law .articulo {
+    margin: 20px 10px;
+    line-height: 1.5em; }
+    #law .articulo .nombre {
+      font-weight: bold;
+      color: #fff;
+      background: #000;
+      padding: 10px;
+      display: inline-block; }
+  #law ul li {
+    margin: 1em 0; }
+  #law ul.lista {
+    list-style-type: none;
+    line-height: 1.5em;
+    display: inline;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0; }
+    #law ul.lista:hover li {
+      background: #efefef; }
+    #law ul.lista:hover li:hover {
+      background: #ddd; }
+    #law ul.lista:hover li:hover ul:hover li:hover {
+      background: #bbb; }
+    #law ul.lista li {
+      display: inline;
+      padding: 0 4px;
+      padding-bottom: 2px;
+      margin: 0;
+      margin-bottom: 3px;
+      background: transparent;
+      border: 1px solid #777;
+      border-width: 0 0 1px 1px; }
+    #law ul.lista li:first-child {
+      border-left: 0;
+      border-bottom-left-radius: 10px;
+      padding-left: 8px; }
+    #law ul.lista li:last-child {
+      border-bottom-right-radius: 10px;
+      padding-right: 8px; }
+    #law ul.lista.dos {
+      display: block; }
+    #law ul.lista.dos > li, #law ul.lista.tres > li {
+      display: block;
+      margin-left: 1.5em; }
+    #law ul.lista.nested ul.lista {
+      display: inline-block;
+      padding-bottom: 3px; }
+  #law ul.bulleted {
+    list-style-type: decimal; }
+  #law ul.bulleted > li > ul.dos > li {
+    margin-left: 0; }
+  #law .tema {
+    font-weight: bold;
+    font-style: normal;
+    color: #DF1259; }
+  #law li .tema {
+    color: #A1003B; }
+  #law .imperativo {
+    font-weight: bold; }
+  #law i {
+    font-weight: bold;
+    font-style: normal;
+    color: #DF1259; }
+  #law article {
+    border-width: 4px 0 4px 0;
+    border-color: black;
+    border-style: solid;
+    padding: 10px 0; }
 
 /*# sourceMappingURL=law.css.map */
