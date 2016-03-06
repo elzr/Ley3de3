@@ -29,10 +29,6 @@ law.css("titulo").each do |t|
 		html += "<h#{h}><span class=\"numero\">Capítulo #{cNumero.to_i == 0 ? 'Único' : cNumero}</span>#{cNombre ? '<span class="nombre">'+cNombre+'</span>' : ''}</h#{h}>"
 
 		c.css("seccion").each do |s|
-			sNumero = fetch(s, 'numero')
-			sNombre = fetch(s, 'nombre')
-			h = cNumero.to_i == 0 ? '1' : '2'
-			html += "<h#{h}><span class=\"numero\">Capítulo #{sNumero.to_i == 0 ? 'Único' : sNumero}</span>#{sNombre ? '<span class="nombre">'+sNombre+'</span>' : ''}</h#{h}>"
 
 			s.css("articulo").each do |a|
 				numero = a.attributes['numero']
